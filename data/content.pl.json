@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "lang": "pl",
+    "lang_name": "Polski",
+    "product_name": "Gotowi72",
+    "tagline": "Planer i checklisty gotowości kryzysowej dla domu",
+    "subtitle": "Pierwsze 72 godziny bez prądu, sieci lub pomocy z zewnątrz",
+    "version": "1.0",
+    "year": "2026"
+  },
+  "cover": {
+    "title": "Gotowi72",
+    "subtitle": "Planer gotowości kryzysowej dla gospodarstwa domowego",
+    "footer": "Oparty na oficjalnych zaleceniach RCB (Polska), BBK (Niemcy) i MSB (Szwecja)"
+  },
+  "intro": {
+    "heading": "Dlaczego 72 godziny?",
+    "paragraphs": [
+      "Rządy Szwecji, Niemiec i coraz więcej krajów Europy Środkowo-Wschodniej wprost zalecają obywatelom przygotowanie się na samodzielne przetrwanie pierwszych 72 godzin każdej sytuacji kryzysowej – awarii sieci energetycznej, powodzi, cyberataku na infrastrukturę czy incydentu przy granicy – zanim służby i pomoc państwowa w pełni się zorganizują.",
+      "To nie jest scenariusz filmowy. To ten sam standard, który od lat obowiązuje w Szwecji (broszura \"Om krisen eller kriget kommer\"), Niemczech (poradnik BBK) i który od 2025/2026 roku promuje polskie Rządowe Centrum Bezpieczeństwa.",
+      "Ten planer zamienia te zalecenia w konkretną, odhaczalną listę – bez katastrofizmu, bez teorii spiskowych. Chodzi o to samo, co gaśnica w kuchni: masz nadzieję, że nigdy jej nie użyjesz."
+    ],
+    "sources_note": "Źródła i pełne dane liczbowe – patrz ostatnia strona."
+  },
+  "supplies": {
+    "heading": "Zapas na 72 godziny",
+    "categories": [
+      {
+        "key": "water",
+        "title": "Woda",
+        "icon": "droplet",
+        "note": "Min. 3 litry na osobę dziennie (picie + gotowanie + podstawowa higiena) – zalecenie RCB. Niemiecki BBK podaje 1,5 l do picia + 0,5 l do gotowania jako absolutne minimum.",
+        "items": [
+          "9 litrów wody butelkowanej na osobę (3 dni x 3 l) – w małych, poręcznych butelkach 1,5 l",
+          "Dodatkowa woda do higieny i spłukiwania, jeśli jest miejsce na zapas",
+          "Tabletki do uzdatniania wody lub filtr turystyczny jako plan B",
+          "Butelka/pojemnik na wodę na osobę do napełnienia w razie ewakuacji"
+        ]
+      },
+      {
+        "key": "food",
+        "title": "Jedzenie",
+        "icon": "food",
+        "note": "Produkty niewymagające lodówki, gotowania lub wymagające minimalnej ilości wody/energii do przygotowania.",
+        "items": [
+          "Pełnoziarnisty makaron, kasze, ryż (uwaga: część wymaga gotowania – miej też opcje bezogniowe)",
+          "Rośliny strączkowe w puszce (ciecierzyca, fasola, soczewica)",
+          "Konserwy: warzywa, owoce, mięso, ryby",
+          "Suszone owoce i orzechy",
+          "Miód, dżem, oleje – produkty o długim terminie ważności",
+          "Gorzka czekolada i batony musli – szybka energia",
+          "Sucharki / pieczywo długoterminowe",
+          "Jedzenie gotowe do spożycia bez podgrzewania na wypadek braku prądu/gazu",
+          "Karma i woda dla zwierząt domowych na min. 3 dni"
+        ]
+      },
+      {
+        "key": "medicine",
+        "title": "Leki i pierwsza pomoc",
+        "icon": "medkit",
+        "note": "To pierwsza rzecz, o której ludzie zapominają w panice – a najtrudniej ją uzupełnić w kryzysie.",
+        "items": [
+          "Zapas leków przyjmowanych na stałe (min. 3–7 dni, idealnie więcej)",
+          "Kompletna apteczka pierwszej pomocy (bandaże, plastry, środek odkażający, nożyczki, rękawiczki)",
+          "Leki przeciwbólowe i przeciwgorączkowe, węgiel aktywowany, środki na biegunkę",
+          "Recepty / lista przyjmowanych leków i dawek (na wypadek konieczności zakupu w innej aptece)",
+          "Tabletki jodku potasu – tylko zgodnie z aktualnymi zaleceniami władz lokalnych; nie stosować profilaktycznie na własną rękę",
+          "Maseczki, środek dezynfekujący do rąk"
+        ]
+      },
+      {
+        "key": "cash",
+        "title": "Gotówka",
+        "icon": "cash",
+        "note": "Przy awarii prądu lub sieci terminale i bankomaty przestają działać. Holandia zaleca ok. 70 EUR na dorosłego i 30 EUR na dziecko na 3 dni, Szwecja ok. 2000 SEK na osobę na tydzień.",
+        "items": [
+          "Gotówka w małych nominałach (10–50 zł) – ok. 300–500 zł na dorosłego na 3 dni to rozsądny punkt startowy",
+          "Trzymana w domu, nie tylko na koncie – konto może być czasowo niedostępne",
+          "Część zapasu w bezpiecznym, ale szybko dostępnym miejscu (nie w sejfie, do którego trzeba klucza zostawionego w pracy)"
+        ]
+      },
+      {
+        "key": "power_light_comms",
+        "title": "Łączność, światło, energia",
+        "icon": "radio",
+        "note": "Podczas awarii sieci komórkowej i internetu radio na baterie to jedyne pewne źródło komunikatów władz.",
+        "items": [
+          "Latarka na osobę + zapasowe baterie",
+          "Radio na baterie/korbkę z odbiorem pasm DAB+/FM",
+          "Powerbank o dużej pojemności (najlepiej z ładowaniem solarnym)",
+          "Świece + zapałki/zapalniczka (ostrożnie, tylko z wentylacją)",
+          "Kabel do ładowania do każdego urządzenia w domu",
+          "Lista ważnych numerów telefonów zapisana na papierze (nie tylko w telefonie)"
+        ]
+      },
+      {
+        "key": "documents_hygiene",
+        "title": "Dokumenty i higiena",
+        "icon": "folder",
+        "note": "Kopie w wodoodpornej teczce/koszulce, oryginały zostają w bezpiecznym miejscu w domu.",
+        "items": [
+          "Kopie dowodów osobistych, paszportów, aktów własności, polis ubezpieczeniowych",
+          "Kopia zapasowa ważnych danych (zdjęcia dokumentów w chmurze i offline na pendrive)",
+          "Środki higieny: mydło, pasta i szczoteczki, papier toaletowy, chusteczki nawilżane",
+          "Worki na śmieci i rękawiczki jednorazowe – uniwersalne zastosowanie w kryzysie",
+          "Zapas środków higienicznych i dla niemowląt/dzieci, jeśli dotyczy"
+        ]
+      }
+    ]
+  },
+  "family_plan": {
+    "heading": "Rodzinny plan łączności",
+    "intro": "Sieć komórkowa i internet są jednymi z pierwszych rzeczy, które padają przy awarii prądu lub celowym ataku na infrastrukturę. Ten plan trzeba ustalić PRZED kryzysem – w jego trakcie już nie ma na to czasu.",
+    "sections": [
+      {
+        "title": "1. Punkt zbiórki",
+        "points": [
+          "Ustalcie miejsce w domu/okolicy, gdzie rodzina spotka się, jeśli kryzys zastanie was w różnych miejscach (np. przed klatką, przed szkołą)",
+          "Ustalcie drugi, zapasowy punkt zbiórki poza najbliższą okolicą (np. u rodziny w innej dzielnicy/mieście), na wypadek konieczności ewakuacji"
+        ]
+      },
+      {
+        "title": "2. Osoba kontaktowa poza regionem",
+        "points": [
+          "Wyznaczcie jedną osobę spoza waszego miasta/regionu jako centralny punkt kontaktowy – lokalne połączenia często nie działają, gdy połączenia międzymiastowe jeszcze tak",
+          "Każdy domownik zna jej numer na pamięć i ma go zapisany na kartce (nie tylko w telefonie)"
+        ]
+      },
+      {
+        "title": "3. Podział ról",
+        "points": [
+          "Ustalcie z wyprzedzeniem, kto bierze apteczkę, kto dokumenty, kto odpowiada za dzieci, kto za zwierzęta",
+          "Dzieci powinny znać podstawowe zasady: do kogo zadzwonić, gdzie iść, jeśli zgubią rodzica"
+        ]
+      },
+      {
+        "title": "4. Łączność bez sieci",
+        "points": [
+          "Radio na baterie do odbioru oficjalnych komunikatów (RCB, lokalne władze)",
+          "Ustalcie prosty sygnał/wiadomość zostawianą w domu (kartka na drzwiach), gdyby trzeba było się rozdzielić i nie było łączności",
+          "Rozważcie krótkofalówki (PMR) jako zapasową łączność rodzinną na krótki dystans"
+        ]
+      },
+      {
+        "title": "5. Osoby wymagające pomocy",
+        "points": [
+          "Zaplanujcie z wyprzedzeniem pomoc dla starszych, chorych lub niepełnosprawnych członków rodziny i sąsiadów",
+          "Zapiszcie ich potrzeby (leki, sprzęt, mobilność) w jednym miejscu dostępnym całej rodzinie"
+        ]
+      }
+    ]
+  },
+  "grab_bag": {
+    "heading": "\"15 minut na wyjście z domu\" – plecak ewakuacyjny",
+    "intro": "Jeśli usłyszysz komunikat o konieczności natychmiastowej ewakuacji, nie masz czasu na szukanie rzeczy. Spakuj to wcześniej, trzymaj w jednym miejscu blisko wyjścia i sprawdzaj zawartość co pół roku.",
+    "categories": [
+      {
+        "title": "Dokumenty i finanse",
+        "items": [
+          "Dowody osobiste / paszporty (lub ich kopie w wodoodpornej koszulce)",
+          "Gotówka w małych nominałach",
+          "Karty płatnicze",
+          "Kopia polis ubezpieczeniowych i aktu własności/najmu",
+          "Lista ważnych numerów telefonów na papierze"
+        ]
+      },
+      {
+        "title": "Zdrowie",
+        "items": [
+          "Leki na min. 3–5 dni + lista dawkowania",
+          "Mini apteczka pierwszej pomocy",
+          "Okulary/soczewki zapasowe, jeśli dotyczy"
+        ]
+      },
+      {
+        "title": "Sprzęt",
+        "items": [
+          "Powerbank + kabel do każdego telefonu",
+          "Latarka czołowa + baterie",
+          "Scyzoryk / multitool",
+          "Radio na baterie (jeśli nie zabraliście już domowego)"
+        ]
+      },
+      {
+        "title": "Ubranie i ochrona",
+        "items": [
+          "Zmiana ubrania na osobę, dopasowana do pogody",
+          "Solidne buty (trzymane przy drzwiach, nie w szafie na górnej półce)",
+          "Peleryna przeciwdeszczowa / ciepła kurtka",
+          "Koc termiczny (folia NRC) na osobę"
+        ]
+      },
+      {
+        "title": "Jedzenie i woda",
+        "items": [
+          "Butelka wody na osobę + możliwość dopełnienia",
+          "Batony energetyczne / suszone owoce na 1 dzień na osobę"
+        ]
+      },
+      {
+        "title": "Dla dzieci i zwierząt",
+        "items": [
+          "Ulubiona mała zabawka/przedmiot uspokajający dla dziecka",
+          "Pieluchy/mleko modyfikowane, jeśli dotyczy",
+          "Smycz, karma, książeczka zdrowia zwierzęcia"
+        ]
+      },
+      {
+        "title": "Klucze",
+        "items": [
+          "Zapasowe klucze do domu i samochodu",
+          "Kluczyk do skrzynki gazowej/wodnej, jeśli trzeba ręcznie odciąć media"
+        ]
+      }
+    ]
+  },
+  "variant_apartment": {
+    "heading": "Wersja: Mieszkanie",
+    "intro": "W bloku liczy się przede wszystkim miejsce na przechowywanie i to, co dzieje się, gdy nie działa winda ani ogrzewanie centralne.",
+    "adaptations": [
+      {
+        "title": "Przechowywanie zapasów",
+        "text": "Wykorzystaj przestrzeń pod łóżkiem, na szczycie szafy i w schowku – płaskie, sztaplowane pojemniki na wodę i jedzenie zajmują mniej miejsca niż duże baniaki."
+      },
+      {
+        "title": "Winda i klatka schodowa",
+        "text": "Podczas awarii prądu winda nie działa – ustal, czy dasz radę znieść zapasy/osoby starsze klatką schodową. Miej latarkę czołową przy drzwiach na taką okoliczność."
+      },
+      {
+        "title": "Ogrzewanie awaryjne",
+        "text": "Bez pieca kaflowego czy kominka ogrzewanie zastępcze jest ograniczone – zaopatrz się w ciepłe koce, śpiwory o niskiej temperaturze komfortu i warstwową odzież termiczną zamiast grzejników na otwarty ogień (ryzyko czadu w szczelnym mieszkaniu)."
+      },
+      {
+        "title": "Zawory i liczniki",
+        "text": "Sprawdź już teraz, gdzie w mieszkaniu/piwnicy jest główny zawór gazu i wody oraz jak bezpiecznie je odciąć."
+      },
+      {
+        "title": "Punkt zbiórki budynku",
+        "text": "Ustal z sąsiadami miejsce zbiórki przed budynkiem – w gęstej zabudowie łatwo się rozminąć podczas ewakuacji."
+      }
+    ]
+  },
+  "variant_house": {
+    "heading": "Wersja: Dom z ogrodem",
+    "intro": "Więcej przestrzeni oznacza możliwość większego zapasu, ale też więcej elementów do zabezpieczenia na zewnątrz.",
+    "adaptations": [
+      {
+        "title": "Przechowywanie zapasów",
+        "text": "Garaż, piwnica lub szopa pozwalają trzymać zapas nawet na 7–10 dni zamiast tylko 72 godzin – rozważ rotacyjny system \"kupuj więcej przy każdych zakupach\"."
+      },
+      {
+        "title": "Dodatkowe źródło wody",
+        "text": "Zbiornik na deszczówkę, studnia lub duże pojemniki w garażu napełniane z wyprzedzeniem to realna przewaga nad mieszkaniem – pamiętaj o tabletkach uzdatniających, jeśli woda nie jest pitna prosto ze źródła."
+      },
+      {
+        "title": "Ogrzewanie i energia awaryjna",
+        "text": "Piec na drewno/kominek + zapas opału to solidny plan B na ogrzewanie. Jeśli masz agregat prądotwórczy, przechowuj paliwo zgodnie z przepisami (na zewnątrz, z dala od źródeł ognia) i nigdy nie uruchamiaj go w zamkniętym pomieszczeniu."
+      },
+      {
+        "title": "Zabezpieczenie ogrodu i posesji",
+        "text": "Przed spodziewanym zagrożeniem pogodowym zabezpiecz meble ogrodowe, trampoliny i narzędzia – w kryzysie infrastrukturalnym to też potencjalne źródło niebezpiecznych odłamków."
+      },
+      {
+        "title": "Samochód jako zasób",
+        "text": "Trzymaj bak przynajmniej w połowie pełny – samochód to zapasowe źródło ładowania telefonu, radia i ciepła w skrajnej sytuacji."
+      },
+      {
+        "title": "Zwierzęta gospodarskie",
+        "text": "Jeśli masz kury, kozy czy inne zwierzęta – zaplanuj dla nich zapas paszy i wody na min. 14 dni oraz plan awaryjny, gdyby trzeba było wyjechać."
+      }
+    ]
+  },
+  "sources": {
+    "heading": "Źródła",
+    "items": [
+      "Szwecja – Myndigheten för samhällsskydd och beredskap (MSB), broszura \"Om krisen eller kriget kommer\" (2024)",
+      "Niemcy – Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), \"Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen\"",
+      "Polska – Rządowe Centrum Bezpieczeństwa (RCB), zalecenia dot. zapasów na 72 godziny",
+      "Holandia i Szwecja – zalecenia banków centralnych dot. zapasu gotówki domowej"
+    ],
+    "disclaimer": "Ten planer ma charakter poglądowy i edukacyjny. W kwestiach takich jak tabletki jodku potasu, ewakuacja czy pomoc medyczna zawsze kieruj się aktualnymi komunikatami lokalnych władz i służb."
+  }
+}

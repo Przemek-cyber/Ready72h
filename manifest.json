@@ -1,0 +1,16 @@
+{
+  "name": "Ready72h – Household Crisis Readiness Planner",
+  "short_name": "Ready72h",
+  "description": "72-hour household crisis-preparedness planner and checklists — water, food, medicine, cash, family communication plan, and a 15-minute evacuation bag.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf7f0",
+  "theme_color": "#16514e",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "lang": "en",
+    "lang_name": "English",
+    "product_name": "Gotowi72",
+    "tagline": "Household crisis-readiness planner and checklists",
+    "subtitle": "The first 72 hours without power, network, or outside help",
+    "version": "1.0",
+    "year": "2026"
+  },
+  "cover": {
+    "title": "Gotowi72",
+    "subtitle": "Household crisis-preparedness planner",
+    "footer": "Based on official guidance from Poland's RCB, Germany's BBK, and Sweden's MSB"
+  },
+  "intro": {
+    "heading": "Why 72 hours?",
+    "paragraphs": [
+      "The governments of Sweden, Germany, and a growing number of Central and Eastern European countries now explicitly recommend that citizens be able to survive the first 72 hours of any crisis on their own — a power grid failure, a flood, a cyberattack on infrastructure, or a border incident — before emergency services and state aid are fully mobilized.",
+      "This isn't a movie scenario. It's the same standard that Sweden has followed for years (the \"If Crisis or War Comes\" brochure), that Germany's BBK guide teaches, and that Poland's Government Centre for Security (RCB) has been actively promoting since 2025/2026.",
+      "This planner turns those recommendations into a concrete, checkable list — no doom-mongering, no conspiracy theories. It's the same logic as a fire extinguisher in the kitchen: you hope you never need it."
+    ],
+    "sources_note": "Sources and full figures — see the last page."
+  },
+  "supplies": {
+    "heading": "72-hour supply list",
+    "categories": [
+      {
+        "key": "water",
+        "title": "Water",
+        "icon": "droplet",
+        "note": "At least 3 liters per person per day (drinking + cooking + basic hygiene) — Poland's RCB recommendation. Germany's BBK states 1.5 l for drinking + 0.5 l for cooking as an absolute minimum.",
+        "items": [
+          "9 liters of bottled water per person (3 days x 3 l) — in small, portable 1.5 l bottles",
+          "Extra water for hygiene and flushing, if you have storage space",
+          "Water purification tablets or a travel filter as a backup plan",
+          "A container per person to refill in case of evacuation"
+        ]
+      },
+      {
+        "key": "food",
+        "title": "Food",
+        "icon": "food",
+        "note": "Items that don't need a fridge, cooking, or use minimal water/energy to prepare.",
+        "items": [
+          "Whole-grain pasta, groats, rice (note: many need cooking — keep no-cook options too)",
+          "Canned legumes (chickpeas, beans, lentils)",
+          "Canned vegetables, fruit, meat, fish",
+          "Dried fruit and nuts",
+          "Honey, jam, oils — long-shelf-life staples",
+          "Dark chocolate and muesli bars — quick energy",
+          "Long-life crackers / bread",
+          "Ready-to-eat food that needs no heating, in case power/gas is out",
+          "Pet food and water for at least 3 days"
+        ]
+      },
+      {
+        "key": "medicine",
+        "title": "Medicine and first aid",
+        "icon": "medkit",
+        "note": "The first thing people forget in a panic — and the hardest to replace during a crisis.",
+        "items": [
+          "A supply of any regular medication (at least 3–7 days, ideally more)",
+          "A complete first-aid kit (bandages, plasters, antiseptic, scissors, gloves)",
+          "Pain and fever relievers, activated charcoal, anti-diarrheal medicine",
+          "A written list of your prescriptions and dosages (in case you need a different pharmacy)",
+          "Potassium iodide tablets — only per current guidance from local authorities; never self-dose preventively",
+          "Face masks, hand sanitizer"
+        ]
+      },
+      {
+        "key": "cash",
+        "title": "Cash",
+        "icon": "cash",
+        "note": "Card terminals and ATMs stop working during a power or network outage. The Netherlands recommends about €70 per adult and €30 per child for 3 days; Sweden about 2,000 SEK per person for a week.",
+        "items": [
+          "Cash in small denominations (10–50 in your local currency) — as a starting point, aim for the equivalent of roughly 3 days' worth per adult",
+          "Kept at home, not only in your bank account — accounts can become temporarily inaccessible",
+          "Part of it somewhere safe but quickly reachable — not in a safe whose key is at the office"
+        ]
+      },
+      {
+        "key": "power_light_comms",
+        "title": "Communication, light, power",
+        "icon": "radio",
+        "note": "When mobile networks and the internet go down, a battery radio is the one reliable way to receive official announcements.",
+        "items": [
+          "A flashlight per person + spare batteries",
+          "A battery- or crank-powered radio with FM/DAB+ reception",
+          "A high-capacity power bank (ideally solar-rechargeable)",
+          "Candles + matches/lighter (used carefully, only with ventilation)",
+          "A charging cable for every device in the house",
+          "A list of important phone numbers written on paper, not just saved in a phone"
+        ]
+      },
+      {
+        "key": "documents_hygiene",
+        "title": "Documents and hygiene",
+        "icon": "folder",
+        "note": "Keep copies in a waterproof pouch; originals stay in a safe place at home.",
+        "items": [
+          "Copies of ID cards, passports, property deeds, insurance policies",
+          "A backup of key data (document photos in the cloud and offline on a USB drive)",
+          "Hygiene items: soap, toothpaste and toothbrushes, toilet paper, wet wipes",
+          "Trash bags and disposable gloves — endlessly useful in a crisis",
+          "Extra hygiene and baby/child supplies, if applicable"
+        ]
+      }
+    ]
+  },
+  "family_plan": {
+    "heading": "Family communication plan",
+    "intro": "Mobile networks and the internet are usually among the first things to fail during a power outage or a deliberate attack on infrastructure. This plan needs to be agreed BEFORE a crisis — there's no time to work it out once one starts.",
+    "sections": [
+      {
+        "title": "1. Meeting point",
+        "points": [
+          "Agree on a spot at home or nearby where the family will regroup if a crisis catches everyone in different places (e.g., outside the building, outside school)",
+          "Agree on a second, backup meeting point further away (e.g., a relative's place in another part of town), in case evacuation becomes necessary"
+        ]
+      },
+      {
+        "title": "2. An out-of-area contact person",
+        "points": [
+          "Choose one person outside your city/region as the central point of contact — local calls often fail while long-distance calls still get through",
+          "Every household member should know their number by heart and have it written on paper, not just saved in a phone"
+        ]
+      },
+      {
+        "title": "3. Who does what",
+        "points": [
+          "Decide in advance who grabs the first-aid kit, who grabs the documents, who's responsible for the kids, who's responsible for pets",
+          "Children should know the basics: who to call, where to go, if they get separated from a parent"
+        ]
+      },
+      {
+        "title": "4. Communication without a network",
+        "points": [
+          "A battery radio for official announcements (national/local civil protection authorities)",
+          "Agree on a simple note or sign left at home (e.g., on the door) in case you get separated with no way to communicate",
+          "Consider PMR walkie-talkies as backup short-range family communication"
+        ]
+      },
+      {
+        "title": "5. People who need extra help",
+        "points": [
+          "Plan ahead for elderly, ill, or disabled family members and neighbors",
+          "Write down their needs (medication, equipment, mobility) somewhere the whole family can access"
+        ]
+      }
+    ]
+  },
+  "grab_bag": {
+    "heading": "\"15 minutes to leave the house\" — the evacuation bag",
+    "intro": "If you're told to evacuate immediately, you won't have time to look for things. Pack this in advance, keep it in one place near the door, and check the contents every six months.",
+    "categories": [
+      {
+        "title": "Documents and money",
+        "items": [
+          "ID cards / passports (or copies in a waterproof pouch)",
+          "Cash in small denominations",
+          "Payment cards",
+          "A copy of insurance policies and property/rental documents",
+          "A written list of important phone numbers"
+        ]
+      },
+      {
+        "title": "Health",
+        "items": [
+          "Medication for at least 3–5 days + a dosage list",
+          "A mini first-aid kit",
+          "Spare glasses/contact lenses, if applicable"
+        ]
+      },
+      {
+        "title": "Gear",
+        "items": [
+          "A power bank + a cable for every phone",
+          "A headlamp + batteries",
+          "A pocket knife / multitool",
+          "A battery radio (if you haven't already grabbed the household one)"
+        ]
+      },
+      {
+        "title": "Clothing and protection",
+        "items": [
+          "A change of clothes per person, suited to the weather",
+          "Sturdy shoes (kept by the door, not on a top shelf)",
+          "A rain poncho / warm jacket",
+          "An emergency thermal blanket per person"
+        ]
+      },
+      {
+        "title": "Food and water",
+        "items": [
+          "A bottle of water per person + a way to refill it",
+          "Energy bars / dried fruit for one day per person"
+        ]
+      },
+      {
+        "title": "For kids and pets",
+        "items": [
+          "A small favorite toy or comfort item for a child",
+          "Diapers/formula, if applicable",
+          "A leash, food, and the pet's health record"
+        ]
+      },
+      {
+        "title": "Keys",
+        "items": [
+          "Spare house and car keys",
+          "The key/tool to manually shut off gas or water, if needed"
+        ]
+      }
+    ]
+  },
+  "variant_apartment": {
+    "heading": "Version: Apartment",
+    "intro": "In an apartment building, what matters most is storage space and what happens when the elevator and central heating stop working.",
+    "adaptations": [
+      {
+        "title": "Storing supplies",
+        "text": "Use the space under the bed, on top of wardrobes, and in closets — flat, stackable containers for water and food take up less room than large jugs."
+      },
+      {
+        "title": "The elevator and stairwell",
+        "text": "During a power outage the elevator won't work — plan whether you can carry supplies or help elderly residents down the stairwell. Keep a headlamp by the door for this."
+      },
+      {
+        "title": "Backup heating",
+        "text": "Without a stove or fireplace, backup heating options are limited — stock warm blankets, low-comfort-rating sleeping bags, and layered thermal clothing instead of open-flame heaters (carbon monoxide risk in a sealed apartment)."
+      },
+      {
+        "title": "Shutoff valves and meters",
+        "text": "Find out now where the main gas and water shutoffs are in your apartment or building basement, and how to close them safely."
+      },
+      {
+        "title": "Building meeting point",
+        "text": "Agree on a meeting point outside the building with your neighbors — in dense housing it's easy to get separated during an evacuation."
+      }
+    ]
+  },
+  "variant_house": {
+    "heading": "Version: House with a garden",
+    "intro": "More space means you can hold a bigger stockpile, but also more things outdoors that need securing.",
+    "adaptations": [
+      {
+        "title": "Storing supplies",
+        "text": "A garage, basement, or shed lets you keep a 7–10 day supply instead of just 72 hours — consider a rotating \"buy a bit extra every shopping trip\" system."
+      },
+      {
+        "title": "An extra water source",
+        "text": "A rainwater tank, a well, or large containers in the garage filled ahead of time are a real advantage over an apartment — keep purification tablets on hand if the water isn't drinkable straight from the source."
+      },
+      {
+        "title": "Backup heating and power",
+        "text": "A wood stove or fireplace plus a stock of firewood is a solid backup heating plan. If you have a generator, store fuel according to regulations (outdoors, away from ignition sources) and never run it inside an enclosed space."
+      },
+      {
+        "title": "Securing the garden and property",
+        "text": "Ahead of an expected weather threat, secure garden furniture, trampolines, and tools — in an infrastructure crisis these can also become dangerous flying debris."
+      },
+      {
+        "title": "Your car as a resource",
+        "text": "Keep the fuel tank at least half full — a car is a backup source of phone charging, radio, and warmth in an extreme situation."
+      },
+      {
+        "title": "Livestock",
+        "text": "If you keep chickens, goats, or other animals, plan at least 14 days of feed and water for them, plus a backup plan in case you need to leave."
+      }
+    ]
+  },
+  "sources": {
+    "heading": "Sources",
+    "items": [
+      "Sweden — Myndigheten för samhällsskydd och beredskap (MSB), \"If Crisis or War Comes\" brochure (2024)",
+      "Germany — Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), \"Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen\"",
+      "Poland — Government Centre for Security (RCB), 72-hour supply recommendations",
+      "The Netherlands and Sweden — central bank recommendations on household cash reserves"
+    ],
+    "disclaimer": "This planner is for general, educational purposes. For topics such as potassium iodide tablets, evacuation orders, or medical assistance, always follow current guidance from your local authorities and emergency services."
+  }
+}

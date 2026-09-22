@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "lang": "es",
+    "lang_name": "Español",
+    "product_name": "Gotowi72",
+    "tagline": "Planificador y listas de preparación ante crisis para el hogar",
+    "subtitle": "Las primeras 72 horas sin electricidad, red o ayuda externa",
+    "version": "1.0",
+    "year": "2026"
+  },
+  "cover": {
+    "title": "Gotowi72",
+    "subtitle": "Planificador de preparación ante crisis para el hogar",
+    "footer": "Basado en recomendaciones oficiales del RCB (Polonia), el BBK (Alemania) y el MSB (Suecia)"
+  },
+  "intro": {
+    "heading": "¿Por qué 72 horas?",
+    "paragraphs": [
+      "Los gobiernos de Suecia, Alemania y un número creciente de países de Europa Central y del Este recomiendan explícitamente a la ciudadanía prepararse para sobrevivir por su cuenta las primeras 72 horas de cualquier crisis —un fallo de la red eléctrica, una inundación, un ciberataque a infraestructuras o un incidente fronterizo— antes de que los servicios de emergencia y la ayuda estatal estén plenamente movilizados.",
+      "No es un escenario de película. Es el mismo estándar que Suecia mantiene desde hace años (el folleto \"Om krisen eller kriget kommer\", \"Si llega la crisis o la guerra\"), el que enseña la guía del BBK en Alemania, y el que el Centro Gubernamental de Seguridad de Polonia (RCB) promueve activamente desde 2025/2026.",
+      "Este planificador convierte esas recomendaciones en una lista concreta y verificable, sin alarmismo ni teorías de la conspiración. Es la misma lógica que un extintor en la cocina: esperas no necesitarlo nunca."
+    ],
+    "sources_note": "Fuentes y cifras completas: ver la última página."
+  },
+  "supplies": {
+    "heading": "Suministros para 72 horas",
+    "categories": [
+      {
+        "key": "water",
+        "title": "Agua",
+        "icon": "droplet",
+        "note": "Mínimo 3 litros por persona al día (beber + cocinar + higiene básica), recomendación del RCB polaco. El BBK alemán indica 1,5 l para beber + 0,5 l para cocinar como mínimo absoluto.",
+        "items": [
+          "9 litros de agua embotellada por persona (3 días x 3 l), en botellas pequeñas y manejables de 1,5 l",
+          "Agua adicional para higiene y para la cisterna, si hay espacio de almacenaje",
+          "Pastillas potabilizadoras o un filtro de viaje como plan B",
+          "Un recipiente por persona para rellenar en caso de evacuación"
+        ]
+      },
+      {
+        "key": "food",
+        "title": "Comida",
+        "icon": "food",
+        "note": "Productos que no necesitan frigorífico, cocción, o que requieren muy poca agua/energía para prepararse.",
+        "items": [
+          "Pasta integral, cereales, arroz (atención: muchos necesitan cocción; ten también opciones que no requieran fuego)",
+          "Legumbres en conserva (garbanzos, alubias, lentejas)",
+          "Conservas de verdura, fruta, carne y pescado",
+          "Fruta desecada y frutos secos",
+          "Miel, mermelada, aceites: productos de larga conservación",
+          "Chocolate negro y barritas de muesli, para energía rápida",
+          "Galletas o pan de larga duración",
+          "Comida lista para comer sin necesidad de calentar, por si falla la luz o el gas",
+          "Comida y agua para mascotas para al menos 3 días"
+        ]
+      },
+      {
+        "key": "medicine",
+        "title": "Medicamentos y primeros auxilios",
+        "icon": "medkit",
+        "note": "Lo primero que se olvida en medio del pánico, y lo más difícil de reponer durante una crisis.",
+        "items": [
+          "Reserva de la medicación habitual (mínimo 3–7 días, idealmente más)",
+          "Botiquín de primeros auxilios completo (vendas, tiritas, antiséptico, tijeras, guantes)",
+          "Analgésicos y antipiréticos, carbón activado, antidiarreicos",
+          "Lista escrita de tus medicamentos y dosis (por si necesitas comprarlos en otra farmacia)",
+          "Pastillas de yoduro de potasio: solo según las indicaciones vigentes de las autoridades locales; nunca por iniciativa propia como prevención",
+          "Mascarillas, gel hidroalcohólico"
+        ]
+      },
+      {
+        "key": "cash",
+        "title": "Efectivo",
+        "icon": "cash",
+        "note": "Con un corte de luz o de red, los terminales de tarjeta y los cajeros dejan de funcionar. Países Bajos recomienda unos 70 € por adulto y 30 € por niño para 3 días; Suecia, unas 2000 SEK por persona para una semana.",
+        "items": [
+          "Efectivo en billetes pequeños (10–50 en tu moneda local); como punto de partida, el equivalente a unos 3 días por adulto",
+          "Guardado en casa, no solo en la cuenta bancaria: las cuentas pueden quedar temporalmente inaccesibles",
+          "Parte de la reserva en un lugar seguro pero de acceso rápido, no en una caja fuerte cuya llave está en el trabajo"
+        ]
+      },
+      {
+        "key": "power_light_comms",
+        "title": "Comunicación, luz y energía",
+        "icon": "radio",
+        "note": "Cuando fallan la red móvil e internet, una radio a pilas es la única fuente fiable de los avisos oficiales.",
+        "items": [
+          "Una linterna por persona + pilas de repuesto",
+          "Una radio a pilas o de manivela con recepción de FM/DAB+",
+          "Una batería externa de alta capacidad (idealmente recargable con energía solar)",
+          "Velas + cerillas/mechero (con precaución, solo con ventilación)",
+          "Un cable de carga para cada dispositivo de la casa",
+          "Una lista de teléfonos importantes escrita en papel, no solo guardada en el móvil"
+        ]
+      },
+      {
+        "key": "documents_hygiene",
+        "title": "Documentos e higiene",
+        "icon": "folder",
+        "note": "Guarda copias en una funda impermeable; los originales se quedan en un lugar seguro en casa.",
+        "items": [
+          "Copias del DNI/pasaporte, escrituras de la vivienda, pólizas de seguro",
+          "Una copia de seguridad de los datos importantes (fotos de documentos en la nube y offline en un pendrive)",
+          "Artículos de higiene: jabón, pasta y cepillos de dientes, papel higiénico, toallitas húmedas",
+          "Bolsas de basura y guantes desechables: útiles para casi todo en una crisis",
+          "Higiene adicional y artículos de bebé/infantiles, si corresponde"
+        ]
+      }
+    ]
+  },
+  "family_plan": {
+    "heading": "Plan de comunicación familiar",
+    "intro": "La red móvil e internet suelen ser de lo primero que falla ante un corte de luz o un ataque deliberado a las infraestructuras. Este plan hay que acordarlo ANTES de la crisis: durante ella ya no hay tiempo para improvisarlo.",
+    "sections": [
+      {
+        "title": "1. Punto de encuentro",
+        "points": [
+          "Acordad un lugar en casa o cerca de ella donde la familia se reunirá si la crisis os sorprende en sitios distintos (por ejemplo, delante del portal, delante del colegio)",
+          "Acordad un segundo punto de encuentro alternativo más alejado (por ejemplo, en casa de un familiar en otro barrio o ciudad), por si hace falta evacuar"
+        ]
+      },
+      {
+        "title": "2. Una persona de contacto fuera de la zona",
+        "points": [
+          "Elegid a una persona fuera de vuestra ciudad o región como punto de contacto central: las llamadas locales suelen fallar antes que las de larga distancia",
+          "Cada miembro de la familia debe saber su número de memoria y tenerlo también anotado en papel, no solo en el móvil"
+        ]
+      },
+      {
+        "title": "3. Reparto de tareas",
+        "points": [
+          "Decidid de antemano quién coge el botiquín, quién los documentos, quién se encarga de los niños y quién de las mascotas",
+          "Los niños deben conocer lo básico: a quién llamar, adónde ir, si se separan de sus padres"
+        ]
+      },
+      {
+        "title": "4. Comunicación sin red",
+        "points": [
+          "Una radio a pilas para los avisos oficiales (protección civil nacional o local)",
+          "Acordad una nota o señal sencilla que dejaréis en casa (por ejemplo, en la puerta) si os separáis y no tenéis forma de comunicaros",
+          "Considerad walkie-talkies PMR como comunicación familiar alternativa a corta distancia"
+        ]
+      },
+      {
+        "title": "5. Personas que necesitan ayuda adicional",
+        "points": [
+          "Planificad con antelación la ayuda para familiares o vecinos mayores, enfermos o con discapacidad",
+          "Anotad sus necesidades (medicación, equipo, movilidad) en un sitio accesible para toda la familia"
+        ]
+      }
+    ]
+  },
+  "grab_bag": {
+    "heading": "\"15 minutos para salir de casa\": la mochila de evacuación",
+    "intro": "Si te avisan de que hay que evacuar de inmediato, no tendrás tiempo de buscar cosas. Prepara esta mochila con antelación, guárdala en un sitio fijo cerca de la puerta y revisa su contenido cada seis meses.",
+    "categories": [
+      {
+        "title": "Documentos y dinero",
+        "items": [
+          "DNI/pasaportes (o copias en una funda impermeable)",
+          "Efectivo en billetes pequeños",
+          "Tarjetas de pago",
+          "Copia de las pólizas de seguro y documentos de propiedad/alquiler",
+          "Una lista escrita de teléfonos importantes"
+        ]
+      },
+      {
+        "title": "Salud",
+        "items": [
+          "Medicación para al menos 3–5 días + lista de dosis",
+          "Un mini botiquín de primeros auxilios",
+          "Gafas o lentillas de repuesto, si corresponde"
+        ]
+      },
+      {
+        "title": "Equipo",
+        "items": [
+          "Una batería externa + cable para cada móvil",
+          "Una linterna frontal + pilas",
+          "Una navaja o multiherramienta",
+          "Una radio a pilas (si no habéis cogido ya la de casa)"
+        ]
+      },
+      {
+        "title": "Ropa y protección",
+        "items": [
+          "Una muda por persona, adecuada al clima",
+          "Calzado resistente (guardado junto a la puerta, no en un estante alto)",
+          "Un poncho de lluvia o una chaqueta de abrigo",
+          "Una manta térmica de emergencia por persona"
+        ]
+      },
+      {
+        "title": "Comida y agua",
+        "items": [
+          "Una botella de agua por persona + forma de rellenarla",
+          "Barritas energéticas o fruta desecada para un día por persona"
+        ]
+      },
+      {
+        "title": "Para niños y mascotas",
+        "items": [
+          "Un juguete pequeño u objeto reconfortante favorito para un niño",
+          "Pañales o leche de fórmula, si corresponde",
+          "Correa, comida y cartilla sanitaria de la mascota"
+        ]
+      },
+      {
+        "title": "Llaves",
+        "items": [
+          "Llaves de repuesto de la casa y el coche",
+          "La llave o herramienta para cortar el gas o el agua manualmente, si es necesario"
+        ]
+      }
+    ]
+  },
+  "variant_apartment": {
+    "heading": "Versión: Piso",
+    "intro": "En un edificio de pisos, lo que más importa es el espacio de almacenaje y lo que ocurre cuando fallan el ascensor y la calefacción central.",
+    "adaptations": [
+      {
+        "title": "Guardar los suministros",
+        "text": "Aprovecha el espacio bajo la cama, encima del armario y en el trastero: los recipientes planos y apilables para agua y comida ocupan menos que los garrafones grandes."
+      },
+      {
+        "title": "El ascensor y la escalera",
+        "text": "Durante un corte de luz el ascensor no funcionará: piensa si podrás bajar suministros o ayudar a vecinos mayores por la escalera. Ten una linterna frontal junto a la puerta para esta situación."
+      },
+      {
+        "title": "Calefacción de emergencia",
+        "text": "Sin estufa de leña ni chimenea, las opciones de calefacción alternativa son limitadas: reúne mantas de abrigo, sacos de dormir de baja temperatura de confort y ropa térmica por capas, en lugar de estufas de llama abierta (riesgo de monóxido de carbono en un piso cerrado)."
+      },
+      {
+        "title": "Llaves de paso y contadores",
+        "text": "Averigua ya dónde están las llaves de paso principales de gas y agua en tu piso o en el sótano del edificio, y cómo cerrarlas con seguridad."
+      },
+      {
+        "title": "Punto de encuentro del edificio",
+        "text": "Acordad con los vecinos un punto de encuentro delante del edificio: en zonas de alta densidad es fácil separarse durante una evacuación."
+      }
+    ]
+  },
+  "variant_house": {
+    "heading": "Versión: Casa con jardín",
+    "intro": "Más espacio significa poder guardar más reservas, pero también más elementos exteriores que asegurar.",
+    "adaptations": [
+      {
+        "title": "Guardar los suministros",
+        "text": "El garaje, el sótano o el cobertizo permiten mantener reservas para 7–10 días en lugar de solo 72 horas: considera un sistema rotativo de \"comprar un poco más en cada compra\"."
+      },
+      {
+        "title": "Una fuente de agua adicional",
+        "text": "Un depósito de agua de lluvia, un pozo o grandes recipientes en el garaje llenados con antelación son una ventaja real frente a un piso; ten a mano pastillas potabilizadoras si el agua no es potable directamente de la fuente."
+      },
+      {
+        "title": "Calefacción y energía de emergencia",
+        "text": "Una estufa de leña o chimenea con reserva de leña es un buen plan B para calentar. Si tienes un generador, guarda el combustible según la normativa (en el exterior, lejos de fuentes de ignición) y no lo hagas funcionar nunca en un espacio cerrado."
+      },
+      {
+        "title": "Asegurar el jardín y la propiedad",
+        "text": "Ante una amenaza meteorológica prevista, asegura los muebles de jardín, las camas elásticas y las herramientas: en una crisis de infraestructuras también pueden convertirse en objetos voladores peligrosos."
+      },
+      {
+        "title": "El coche como recurso",
+        "text": "Mantén el depósito al menos medio lleno: en una situación extrema, el coche es una fuente alternativa para cargar el móvil, la radio y para dar calor."
+      },
+      {
+        "title": "Animales de granja",
+        "text": "Si tienes gallinas, cabras u otros animales, planifica al menos 14 días de pienso y agua para ellos, además de un plan alternativo por si tenéis que marcharos."
+      }
+    ]
+  },
+  "sources": {
+    "heading": "Fuentes",
+    "items": [
+      "Suecia: Myndigheten för samhällsskydd och beredskap (MSB), folleto \"Om krisen eller kriget kommer\" (2024)",
+      "Alemania: Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), \"Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen\"",
+      "Polonia: Centro Gubernamental de Seguridad (RCB), recomendaciones de suministros para 72 horas",
+      "Países Bajos y Suecia: recomendaciones de los bancos centrales sobre la reserva de efectivo en el hogar"
+    ],
+    "disclaimer": "Este planificador tiene un carácter general e informativo. En temas como las pastillas de yoduro de potasio, las órdenes de evacuación o la asistencia médica, sigue siempre las indicaciones vigentes de las autoridades y servicios de emergencia locales."
+  }
+}

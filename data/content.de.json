@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "lang": "de",
+    "lang_name": "Deutsch",
+    "product_name": "Gotowi72",
+    "tagline": "Notfallvorsorge-Planer und Checklisten für den Haushalt",
+    "subtitle": "Die ersten 72 Stunden ohne Strom, Netz oder Hilfe von außen",
+    "version": "1.0",
+    "year": "2026"
+  },
+  "cover": {
+    "title": "Gotowi72",
+    "subtitle": "Notfallvorsorge-Planer für den Haushalt",
+    "footer": "Basierend auf offiziellen Empfehlungen von RCB (Polen), BBK (Deutschland) und MSB (Schweden)"
+  },
+  "intro": {
+    "heading": "Warum 72 Stunden?",
+    "paragraphs": [
+      "Die Regierungen Schwedens, Deutschlands und einer wachsenden Zahl mittel- und osteuropäischer Länder empfehlen ihren Bürgern ausdrücklich, sich auf ein eigenständiges Überstehen der ersten 72 Stunden jeder Krisensituation vorzubereiten – ein Ausfall des Stromnetzes, ein Hochwasser, ein Cyberangriff auf die Infrastruktur oder ein Zwischenfall an der Grenze –, bevor Rettungsdienste und staatliche Hilfe vollständig einsatzbereit sind.",
+      "Das ist kein Filmszenario. Es ist derselbe Standard, den Schweden seit Jahren vertritt (Broschüre \"Om krisen eller kriget kommer\" / \"Falls Krise oder Krieg kommt\"), den der BBK-Ratgeber in Deutschland lehrt, und den Polens Regierungszentrum für Sicherheit (RCB) seit 2025/2026 aktiv bewirbt.",
+      "Dieser Planer macht aus diesen Empfehlungen eine konkrete, abhakbare Liste – ohne Panikmache, ohne Verschwörungstheorien. Es ist dieselbe Logik wie bei einem Feuerlöscher in der Küche: Man hofft, ihn nie zu brauchen."
+    ],
+    "sources_note": "Quellen und vollständige Zahlen – siehe letzte Seite."
+  },
+  "supplies": {
+    "heading": "72-Stunden-Vorrat",
+    "categories": [
+      {
+        "key": "water",
+        "title": "Wasser",
+        "icon": "droplet",
+        "note": "Mindestens 3 Liter pro Person und Tag (Trinken + Kochen + Grundhygiene) – Empfehlung der polnischen RCB. Das deutsche BBK nennt 1,5 l zum Trinken + 0,5 l zum Kochen als absolutes Minimum.",
+        "items": [
+          "9 Liter Flaschenwasser pro Person (3 Tage x 3 l) – in kleinen, handlichen 1,5-l-Flaschen",
+          "Zusätzliches Wasser für Hygiene und Spülung, falls Lagerplatz vorhanden ist",
+          "Wasserreinigungstabletten oder ein Outdoor-Filter als Plan B",
+          "Ein Gefäß pro Person zum Nachfüllen im Falle einer Evakuierung"
+        ]
+      },
+      {
+        "key": "food",
+        "title": "Lebensmittel",
+        "icon": "food",
+        "note": "Produkte, die keinen Kühlschrank, kein Kochen oder nur minimal Wasser/Energie zur Zubereitung benötigen.",
+        "items": [
+          "Vollkornnudeln, Grütze, Reis (Hinweis: vieles davon muss gekocht werden – auch kochfreie Optionen bereithalten)",
+          "Hülsenfrüchte aus der Dose (Kichererbsen, Bohnen, Linsen)",
+          "Konserven: Gemüse, Obst, Fleisch, Fisch",
+          "Trockenfrüchte und Nüsse",
+          "Honig, Marmelade, Öle – lange haltbare Grundnahrungsmittel",
+          "Zartbitterschokolade und Müsliriegel – schnelle Energie",
+          "Zwieback / lange haltbares Brot",
+          "Verzehrfertige Lebensmittel ohne Erhitzen, falls Strom/Gas ausfällt",
+          "Tierfutter und Wasser für Haustiere für mindestens 3 Tage"
+        ]
+      },
+      {
+        "key": "medicine",
+        "title": "Medikamente und Erste Hilfe",
+        "icon": "medkit",
+        "note": "Das Erste, was man in der Panik vergisst – und am schwersten in einer Krise zu ersetzen.",
+        "items": [
+          "Vorrat an Dauermedikation (mindestens 3–7 Tage, idealerweise mehr)",
+          "Vollständiger Erste-Hilfe-Kasten (Verbände, Pflaster, Desinfektionsmittel, Schere, Handschuhe)",
+          "Schmerz- und fiebersenkende Mittel, Aktivkohle, Mittel gegen Durchfall",
+          "Schriftliche Liste der eingenommenen Medikamente und Dosierungen (falls eine andere Apotheke nötig wird)",
+          "Kaliumiodid-Tabletten – nur gemäß aktuellen Empfehlungen der lokalen Behörden; keine vorsorgliche Selbsteinnahme",
+          "Mund-Nasen-Masken, Handdesinfektionsmittel"
+        ]
+      },
+      {
+        "key": "cash",
+        "title": "Bargeld",
+        "icon": "cash",
+        "note": "Bei einem Strom- oder Netzausfall funktionieren Kartenterminals und Geldautomaten nicht mehr. Die Niederlande empfehlen ca. 70 € pro Erwachsenem und 30 € pro Kind für 3 Tage, Schweden ca. 2000 SEK pro Person pro Woche.",
+        "items": [
+          "Bargeld in kleinen Scheinen (10–50 €) – als Richtwert etwa der Gegenwert von 3 Tagen pro Erwachsenem",
+          "Zu Hause aufbewahrt, nicht nur auf dem Konto – Konten können zeitweise nicht erreichbar sein",
+          "Ein Teil davon sicher, aber schnell greifbar – nicht in einem Safe, dessen Schlüssel im Büro liegt"
+        ]
+      },
+      {
+        "key": "power_light_comms",
+        "title": "Kommunikation, Licht, Energie",
+        "icon": "radio",
+        "note": "Fallen Mobilfunknetz und Internet aus, ist ein batteriebetriebenes Radio die einzige verlässliche Quelle für offizielle Durchsagen.",
+        "items": [
+          "Eine Taschenlampe pro Person + Ersatzbatterien",
+          "Ein batterie- oder kurbelbetriebenes Radio mit UKW/DAB+-Empfang",
+          "Eine Powerbank mit hoher Kapazität (idealerweise mit Solarladung)",
+          "Kerzen + Streichhölzer/Feuerzeug (vorsichtig, nur mit Belüftung verwenden)",
+          "Ein Ladekabel für jedes Gerät im Haushalt",
+          "Eine Liste wichtiger Telefonnummern auf Papier, nicht nur im Handy gespeichert"
+        ]
+      },
+      {
+        "key": "documents_hygiene",
+        "title": "Dokumente und Hygiene",
+        "icon": "folder",
+        "note": "Kopien in einer wasserdichten Hülle aufbewahren, Originale bleiben an einem sicheren Ort zu Hause.",
+        "items": [
+          "Kopien von Personalausweis, Reisepass, Eigentumsurkunden, Versicherungspolicen",
+          "Ein Backup wichtiger Daten (Fotos der Dokumente in der Cloud und offline auf einem USB-Stick)",
+          "Hygieneartikel: Seife, Zahnpasta und Zahnbürsten, Toilettenpapier, Feuchttücher",
+          "Müllbeutel und Einweghandschuhe – in einer Krise vielseitig einsetzbar",
+          "Zusätzliche Hygiene- und Babyartikel, falls zutreffend"
+        ]
+      }
+    ]
+  },
+  "family_plan": {
+    "heading": "Familien-Kommunikationsplan",
+    "intro": "Mobilfunknetz und Internet fallen bei einem Stromausfall oder einem gezielten Angriff auf die Infrastruktur meist als Erstes aus. Dieser Plan muss VOR einer Krise vereinbart werden – währenddessen bleibt keine Zeit mehr dafür.",
+    "sections": [
+      {
+        "title": "1. Treffpunkt",
+        "points": [
+          "Vereinbart einen Ort zu Hause oder in der Nähe, an dem sich die Familie trifft, falls eine Krise alle an unterschiedlichen Orten überrascht (z. B. vor dem Haus, vor der Schule)",
+          "Vereinbart einen zweiten, weiter entfernten Ausweichtreffpunkt (z. B. bei Verwandten in einem anderen Stadtteil), falls eine Evakuierung nötig wird"
+        ]
+      },
+      {
+        "title": "2. Eine Kontaktperson außerhalb der Region",
+        "points": [
+          "Bestimmt eine Person außerhalb eurer Stadt/Region als zentralen Ansprechpartner – lokale Anrufe scheitern oft, während Ferngespräche noch funktionieren",
+          "Jedes Familienmitglied kennt die Nummer auswendig und hat sie zusätzlich auf Papier notiert, nicht nur im Handy"
+        ]
+      },
+      {
+        "title": "3. Aufgabenverteilung",
+        "points": [
+          "Legt im Voraus fest, wer den Erste-Hilfe-Kasten nimmt, wer die Dokumente, wer für die Kinder und wer für die Haustiere zuständig ist",
+          "Kinder sollten die Grundregeln kennen: wen sie anrufen, wohin sie gehen sollen, falls sie von den Eltern getrennt werden"
+        ]
+      },
+      {
+        "title": "4. Kommunikation ohne Netz",
+        "points": [
+          "Ein batteriebetriebenes Radio für offizielle Durchsagen (nationaler/lokaler Katastrophenschutz)",
+          "Vereinbart eine einfache Nachricht oder ein Zeichen, das zu Hause hinterlassen wird (z. B. an der Tür), falls ihr getrennt werdet und keine Verbindung habt",
+          "Erwägt PMR-Funkgeräte als Ausweich-Kommunikation über kurze Distanz innerhalb der Familie"
+        ]
+      },
+      {
+        "title": "5. Personen, die zusätzliche Hilfe brauchen",
+        "points": [
+          "Plant im Voraus für ältere, kranke oder pflegebedürftige Familienmitglieder und Nachbarn",
+          "Haltet deren Bedürfnisse (Medikamente, Hilfsmittel, Mobilität) an einem für die ganze Familie zugänglichen Ort schriftlich fest"
+        ]
+      }
+    ]
+  },
+  "grab_bag": {
+    "heading": "\"15 Minuten, um das Haus zu verlassen\" – der Evakuierungsrucksack",
+    "intro": "Wenn eine sofortige Evakuierung angeordnet wird, bleibt keine Zeit, Dinge zu suchen. Packt diesen Rucksack im Voraus, bewahrt ihn an einem Ort nahe der Tür auf und überprüft den Inhalt alle sechs Monate.",
+    "categories": [
+      {
+        "title": "Dokumente und Geld",
+        "items": [
+          "Personalausweise / Reisepässe (oder Kopien in einer wasserdichten Hülle)",
+          "Bargeld in kleinen Scheinen",
+          "Zahlungskarten",
+          "Kopie der Versicherungspolicen und Eigentums-/Mietunterlagen",
+          "Eine schriftliche Liste wichtiger Telefonnummern"
+        ]
+      },
+      {
+        "title": "Gesundheit",
+        "items": [
+          "Medikamente für mindestens 3–5 Tage + Dosierungsliste",
+          "Ein kleiner Erste-Hilfe-Kasten",
+          "Ersatzbrille/-kontaktlinsen, falls zutreffend"
+        ]
+      },
+      {
+        "title": "Ausrüstung",
+        "items": [
+          "Eine Powerbank + Kabel für jedes Handy",
+          "Eine Stirnlampe + Batterien",
+          "Ein Taschenmesser / Multitool",
+          "Ein batteriebetriebenes Radio (falls das aus dem Haushalt nicht schon eingepackt ist)"
+        ]
+      },
+      {
+        "title": "Kleidung und Schutz",
+        "items": [
+          "Ein Wechsel Kleidung pro Person, passend zum Wetter",
+          "Feste Schuhe (an der Tür aufbewahrt, nicht im obersten Schrankfach)",
+          "Ein Regenponcho / eine warme Jacke",
+          "Eine Rettungsdecke pro Person"
+        ]
+      },
+      {
+        "title": "Essen und Wasser",
+        "items": [
+          "Eine Flasche Wasser pro Person + Möglichkeit zum Nachfüllen",
+          "Energieriegel / Trockenfrüchte für einen Tag pro Person"
+        ]
+      },
+      {
+        "title": "Für Kinder und Haustiere",
+        "items": [
+          "Ein kleines Lieblingsspielzeug oder Trostobjekt für ein Kind",
+          "Windeln/Babynahrung, falls zutreffend",
+          "Leine, Futter und der Impfpass des Haustiers"
+        ]
+      },
+      {
+        "title": "Schlüssel",
+        "items": [
+          "Ersatzschlüssel für Haus und Auto",
+          "Der Schlüssel/das Werkzeug, um Gas oder Wasser manuell abzustellen, falls nötig"
+        ]
+      }
+    ]
+  },
+  "variant_apartment": {
+    "heading": "Version: Wohnung",
+    "intro": "In einem Mehrfamilienhaus zählen vor allem der Stauraum und das, was passiert, wenn Aufzug und Zentralheizung ausfallen.",
+    "adaptations": [
+      {
+        "title": "Vorräte lagern",
+        "text": "Nutzt den Platz unter dem Bett, auf dem Kleiderschrank und in Abstellräumen – flache, stapelbare Behälter für Wasser und Lebensmittel benötigen weniger Platz als große Kanister."
+      },
+      {
+        "title": "Aufzug und Treppenhaus",
+        "text": "Bei einem Stromausfall funktioniert der Aufzug nicht – überlegt, ob ihr Vorräte oder ältere Bewohner über das Treppenhaus transportieren könnt. Für diesen Fall eine Stirnlampe an der Tür bereithalten."
+      },
+      {
+        "title": "Ersatzheizung",
+        "text": "Ohne Kachelofen oder Kamin sind die Ersatzheizmöglichkeiten begrenzt – legt euch warme Decken, Schlafsäcke mit niedriger Komforttemperatur und mehrlagige Thermokleidung zu, statt offene Heizquellen zu nutzen (Kohlenmonoxid-Risiko in einer dicht abgeschlossenen Wohnung)."
+      },
+      {
+        "title": "Absperrventile und Zähler",
+        "text": "Findet jetzt schon heraus, wo sich die Haupt-Gas- und Wasserabsperrungen in eurer Wohnung oder im Kellergeschoss befinden und wie man sie sicher schließt."
+      },
+      {
+        "title": "Treffpunkt am Gebäude",
+        "text": "Vereinbart mit den Nachbarn einen Treffpunkt vor dem Gebäude – in dicht bebauten Wohngebieten trennt man sich bei einer Evakuierung leicht."
+      }
+    ]
+  },
+  "variant_house": {
+    "heading": "Version: Haus mit Garten",
+    "intro": "Mehr Platz bedeutet einen größeren Vorrat, aber auch mehr Dinge im Freien, die gesichert werden müssen.",
+    "adaptations": [
+      {
+        "title": "Vorräte lagern",
+        "text": "Garage, Keller oder Schuppen erlauben einen Vorrat für 7–10 Tage statt nur 72 Stunden – ein rotierendes System (\"bei jedem Einkauf etwas mehr\") bietet sich an."
+      },
+      {
+        "title": "Zusätzliche Wasserquelle",
+        "text": "Eine Regenwassertonne, ein Brunnen oder im Voraus gefüllte große Behälter in der Garage sind ein echter Vorteil gegenüber einer Wohnung – Reinigungstabletten bereithalten, falls das Wasser nicht direkt trinkbar ist."
+      },
+      {
+        "title": "Ersatzheizung und -energie",
+        "text": "Ein Holzofen oder Kamin plus Brennholzvorrat ist ein solider Plan B zum Heizen. Bei einem Stromgenerator: Kraftstoff vorschriftsgemäß lagern (im Freien, fern von Zündquellen) und ihn niemals in geschlossenen Räumen betreiben."
+      },
+      {
+        "title": "Garten und Grundstück sichern",
+        "text": "Vor einer erwarteten Wettergefahr Gartenmöbel, Trampoline und Werkzeug sichern – bei einer Infrastrukturkrise können diese auch zu gefährlichen fliegenden Trümmern werden."
+      },
+      {
+        "title": "Das Auto als Ressource",
+        "text": "Haltet den Tank mindestens halb voll – im Extremfall ist das Auto eine Ersatzquelle zum Laden von Handy und Radio sowie für Wärme."
+      },
+      {
+        "title": "Nutztiere",
+        "text": "Wer Hühner, Ziegen oder andere Tiere hält, sollte mindestens 14 Tage Futter und Wasser für sie einplanen sowie einen Ausweichplan, falls ihr das Haus verlassen müsst."
+      }
+    ]
+  },
+  "sources": {
+    "heading": "Quellen",
+    "items": [
+      "Schweden – Myndigheten för samhällsskydd och beredskap (MSB), Broschüre \"Om krisen eller kriget kommer\" (2024)",
+      "Deutschland – Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), \"Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen\"",
+      "Polen – Regierungszentrum für Sicherheit (RCB), Empfehlungen zum 72-Stunden-Vorrat",
+      "Niederlande und Schweden – Empfehlungen der Zentralbanken zur Bargeldreserve im Haushalt"
+    ],
+    "disclaimer": "Dieser Planer dient allgemeinen, informativen Zwecken. Bei Themen wie Kaliumiodid-Tabletten, Evakuierungsanordnungen oder medizinischer Hilfe immer den aktuellen Anweisungen der örtlichen Behörden und Rettungsdienste folgen."
+  }
+}
