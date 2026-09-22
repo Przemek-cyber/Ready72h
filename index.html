@@ -137,6 +137,38 @@ nav.tabbar button.active .dot{background:var(--teal-dark); color:#fff;}
 }
 .offline-banner.show{display:block;}
 
+.gate-screen{
+  position:fixed; inset:0; z-index:50; overflow-y:auto;
+  background:linear-gradient(135deg,var(--teal-dark),var(--teal));
+  display:flex; align-items:center; justify-content:center; padding:24px 16px;
+}
+.gate-card{
+  width:100%; max-width:380px; background:#fdf8ef; border-radius:16px; padding:26px 22px 24px;
+  box-shadow:0 12px 32px rgba(0,0,0,0.25); position:relative;
+}
+select.gate-lang{
+  position:absolute; top:16px; right:16px; background:transparent; color:var(--teal-dark);
+  border:1px solid var(--line); border-radius:8px; padding:4px 8px; font-size:12px; font-weight:800; cursor:pointer;
+}
+.gate-brand{font-weight:800; font-size:15px; color:var(--accent-dark); letter-spacing:0.02em;}
+.gate-card h1{font-size:21px; margin:10px 0 8px; font-family:Georgia,serif; color:var(--ink);}
+.gate-card p{font-size:13px; color:var(--ink-soft); line-height:1.5; margin:0 0 14px;}
+.gate-input{
+  width:100%; box-sizing:border-box; border:1.6px solid var(--line); border-radius:9px; padding:11px 12px;
+  font-size:14px; margin-bottom:12px; background:#fff; color:var(--ink);
+}
+.gate-input:focus{outline:2px solid var(--teal); outline-offset:1px;}
+.gate-btn{
+  width:100%; border:none; background:var(--teal-dark); color:#fdf8ef; font-weight:800; font-size:14.5px;
+  border-radius:9px; padding:12px; cursor:pointer;
+}
+.gate-btn:disabled{opacity:0.65; cursor:default;}
+.gate-error{
+  background:var(--danger-soft); color:var(--accent-dark); border-radius:8px; padding:8px 10px;
+  font-size:12.5px; margin:12px 0 0;
+}
+.gate-hint{font-size:11.5px; color:var(--ink-soft); margin:14px 0 0; text-align:center;}
+
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
     --ink:#f1ece4; --ink-soft:#b9c4c2; --paper:#10181a; --card:#182325;
@@ -155,7 +187,25 @@ nav.tabbar button.active .dot{background:var(--teal-dark); color:#fff;}
 
 <div class="offline-banner" id="offlineBanner">⚡ Tryb offline — treść działa bez internetu</div>
 
-<header class="topbar">
+<div class="gate-screen" id="gateScreen" hidden>
+  <div class="gate-card">
+    <select class="gate-lang" id="gateLangSelect">
+      <option value="pl">PL</option>
+      <option value="en">EN</option>
+      <option value="de">DE</option>
+      <option value="es">ES</option>
+    </select>
+    <div class="gate-brand">Ready72h</div>
+    <h1 id="gateHeading"></h1>
+    <p id="gateIntro"></p>
+    <input class="gate-input" type="text" id="gateInput" autocomplete="off" autocapitalize="off" spellcheck="false">
+    <button class="gate-btn" id="gateSubmit"></button>
+    <p class="gate-error" id="gateError" hidden></p>
+    <p class="gate-hint" id="gateHint"></p>
+  </div>
+</div>
+
+<header class="topbar" id="appHeader" hidden>
   <div class="topbar-row">
     <div class="brand"><span>Ready72h</span></div>
     <div class="controls">
@@ -174,7 +224,7 @@ nav.tabbar button.active .dot{background:var(--teal-dark); color:#fff;}
   </div>
 </header>
 
-<main id="app">
+<main id="app" hidden>
   <div class="progress-card">
     <svg class="progress-ring" viewBox="0 0 42 42">
       <circle cx="21" cy="21" r="18" fill="none" stroke="#e3dccb" stroke-width="5"/>
@@ -232,7 +282,7 @@ nav.tabbar button.active .dot{background:var(--teal-dark); color:#fff;}
   </div>
 </main>
 
-<nav class="tabbar">
+<nav class="tabbar" id="appNav" hidden>
   <button class="active" data-view="checklist"><span class="dot">72</span><span id="tabChecklist"></span></button>
   <button data-view="family"><span class="dot">☎</span><span id="tabFamily"></span></button>
   <button data-view="bag"><span class="dot">🎒</span><span id="tabBag"></span></button>

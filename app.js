@@ -36,6 +36,59 @@
     }
   };
 
+  // Calls Lemon Squeezy's License API directly from the browser (no proxy) —
+  // same approach as bikepackpilot.com. Optionally set EXPECTED_PRODUCT_NAME
+  // to reject a key that belongs to a different Lemon Squeezy product.
+  var LICENSE_API = "https://api.lemonsqueezy.com/v1/licenses";
+  var EXPECTED_PRODUCT_NAME = ""; // e.g. "Ready72h" — leave empty to skip the check
+
+  var GATE_UI = {
+    pl: {
+      heading: "Odblokuj Ready72h",
+      intro: "Wpisz klucz licencyjny, który dostałeś po zakupie (e-mail od Lemon Squeezy).",
+      placeholder: "np. XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+      submit: "Odblokuj", submitting: "Sprawdzam…",
+      hint: "Klucz aktywujesz raz na urządzenie — potem apka działa offline.",
+      errGeneric: "Nie udało się zweryfikować klucza. Spróbuj ponownie.",
+      errInvalid: "Ten klucz jest nieprawidłowy albo już wykorzystany na maksymalnej liczbie urządzeń.",
+      errNetwork: "Brak internetu — pierwsza aktywacja wymaga połączenia. Spróbuj ponownie, gdy będziesz online.",
+      errEmpty: "Wpisz swój klucz licencyjny."
+    },
+    en: {
+      heading: "Unlock Ready72h",
+      intro: "Enter the license key you received after purchase (email from Lemon Squeezy).",
+      placeholder: "e.g. XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+      submit: "Unlock", submitting: "Checking…",
+      hint: "You activate your key once per device — after that the app works offline.",
+      errGeneric: "Couldn't verify this key. Please try again.",
+      errInvalid: "This key is invalid or already used on the maximum number of devices.",
+      errNetwork: "No internet connection — the first activation needs one. Try again once you're online.",
+      errEmpty: "Enter your license key."
+    },
+    de: {
+      heading: "Ready72h freischalten",
+      intro: "Gib den Lizenzschlüssel ein, den du nach dem Kauf erhalten hast (E-Mail von Lemon Squeezy).",
+      placeholder: "z. B. XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+      submit: "Freischalten", submitting: "Wird geprüft…",
+      hint: "Du aktivierst deinen Schlüssel einmal pro Gerät — danach funktioniert die App offline.",
+      errGeneric: "Der Schlüssel konnte nicht überprüft werden. Bitte versuche es erneut.",
+      errInvalid: "Dieser Schlüssel ist ungültig oder bereits auf der maximalen Anzahl Geräte aktiviert.",
+      errNetwork: "Keine Internetverbindung — die erste Aktivierung braucht eine. Versuch es erneut, sobald du online bist.",
+      errEmpty: "Gib deinen Lizenzschlüssel ein."
+    },
+    es: {
+      heading: "Desbloquea Ready72h",
+      intro: "Introduce la clave de licencia que recibiste al comprar (correo de Lemon Squeezy).",
+      placeholder: "p. ej. XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+      submit: "Desbloquear", submitting: "Comprobando…",
+      hint: "Activas tu clave una vez por dispositivo — después la app funciona sin conexión.",
+      errGeneric: "No se pudo verificar esta clave. Inténtalo de nuevo.",
+      errInvalid: "Esta clave no es válida o ya se usó en el número máximo de dispositivos.",
+      errNetwork: "Sin conexión a internet — la primera activación necesita una. Vuelve a intentarlo cuando tengas conexión.",
+      errEmpty: "Introduce tu clave de licencia."
+    }
+  };
+
   var state = {
     lang: localStorage.getItem("g72_lang") || "pl",
     variant: localStorage.getItem("g72_variant") || "apartment",
@@ -255,7 +308,114 @@
     });
   }
 
-  function init() {
+  function deviceId() {
+    var id = localStorage.getItem("g72_device_id");
+    if (!id) {
+      id = "dev-" + Math.random().toString(36).slice(2, 10) + Date.now().toString(36);
+      localStorage.setItem("g72_device_id", id);
+    }
+    return id;
+  }
+
+  function isActivated() {
+    return localStorage.getItem("g72_license_ok") === "1";
+  }
+
+  function setActivated(key, instanceId) {
+    localStorage.setItem("g72_license_ok", "1");
+    localStorage.setItem("g72_license_key", key);
+    if (instanceId) localStorage.setItem("g72_license_instance", instanceId);
+  }
+
+  function applyGateStrings() {
+    var t = GATE_UI[state.lang];
+    el("gateHeading").textContent = t.heading;
+    el("gateIntro").textContent = t.intro;
+    el("gateInput").placeholder = t.placeholder;
+    el("gateSubmit").textContent = t.submit;
+    el("gateHint").textContent = t.hint;
+  }
+
+  function showGate() {
+    el("gateScreen").hidden = false;
+    el("appHeader").hidden = true;
+    el("app").hidden = true;
+    el("appNav").hidden = true;
+  }
+
+  function showApp() {
+    el("gateScreen").hidden = true;
+    el("appHeader").hidden = false;
+    el("app").hidden = false;
+    el("appNav").hidden = false;
+  }
+
+  function gateError(msg) {
+    var e = el("gateError");
+    e.textContent = msg || "";
+    e.hidden = !msg;
+  }
+
+  function submitLicense() {
+    var t = GATE_UI[state.lang];
+    var key = el("gateInput").value.trim();
+    gateError("");
+    if (!key) { gateError(t.errEmpty); return; }
+
+    var btn = el("gateSubmit");
+    btn.disabled = true;
+    btn.textContent = t.submitting;
+
+    var body = "license_key=" + encodeURIComponent(key) +
+      "&instance_name=" + encodeURIComponent("Ready72h-" + deviceId());
+
+    fetch(LICENSE_API + "/activate", {
+      method: "POST",
+      headers: {
+        "Accept": "application/json",
+        "Content-Type": "application/x-www-form-urlencoded"
+      },
+      body: body
+    })
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        if (data && data.activated) {
+          if (EXPECTED_PRODUCT_NAME && data.meta && data.meta.product_name !== EXPECTED_PRODUCT_NAME) {
+            gateError(t.errInvalid);
+            return;
+          }
+          setActivated(key, data.instance && data.instance.id);
+          showApp();
+          initApp();
+        } else {
+          gateError((data && data.error) ? data.error : t.errInvalid);
+        }
+      })
+      .catch(function () {
+        gateError(navigator.onLine ? t.errGeneric : t.errNetwork);
+      })
+      .then(function () {
+        btn.disabled = false;
+        btn.textContent = t.submit;
+      });
+  }
+
+  function initGate() {
+    applyGateStrings();
+    el("gateLangSelect").value = state.lang;
+    el("gateLangSelect").addEventListener("change", function () {
+      state.lang = el("gateLangSelect").value;
+      localStorage.setItem("g72_lang", state.lang);
+      applyGateStrings();
+    });
+    el("gateSubmit").addEventListener("click", submitLicense);
+    el("gateInput").addEventListener("keydown", function (e) {
+      if (e.key === "Enter") submitLicense();
+    });
+    el("gateInput").focus();
+  }
+
+  function initApp() {
     el("langSelect").value = state.lang;
     applyUIStrings();
     applyVariantButtons();
@@ -297,13 +457,22 @@
     if (!navigator.onLine) el("offlineBanner").classList.add("show");
 
     loadData(state.lang, renderAll);
+  }
 
+  function boot() {
     if ("serviceWorker" in navigator) {
       navigator.serviceWorker.register("sw.js").catch(function (e) {
         console.warn("SW registration failed", e);
       });
     }
+    if (isActivated()) {
+      showApp();
+      initApp();
+    } else {
+      showGate();
+      initGate();
+    }
   }
 
-  document.addEventListener("DOMContentLoaded", init);
+  document.addEventListener("DOMContentLoaded", boot);
 })();
