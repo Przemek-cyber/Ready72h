@@ -2,14 +2,14 @@
   "meta": {
     "lang": "en",
     "lang_name": "English",
-    "product_name": "Gotowi72",
+    "product_name": "Ready72h",
     "tagline": "Household crisis-readiness planner and checklists",
     "subtitle": "The first 72 hours without power, network, or outside help",
     "version": "1.0",
     "year": "2026"
   },
   "cover": {
-    "title": "Gotowi72",
+    "title": "Ready72h",
     "subtitle": "Household crisis-preparedness planner",
     "footer": "Based on official guidance from Poland's RCB, Germany's BBK, and Sweden's MSB"
   },
@@ -17,7 +17,7 @@
     "heading": "Why 72 hours?",
     "paragraphs": [
       "The governments of Sweden, Germany, and a growing number of Central and Eastern European countries now explicitly recommend that citizens be able to survive the first 72 hours of any crisis on their own — a power grid failure, a flood, a cyberattack on infrastructure, or a border incident — before emergency services and state aid are fully mobilized.",
-      "This isn't a movie scenario. It's the same standard that Sweden has followed for years (the \"If Crisis or War Comes\" brochure), that Germany's BBK guide teaches, and that Poland's Government Centre for Security (RCB) has been actively promoting since 2025/2026.",
+      "This isn't a movie scenario. It's the same standard that Sweden has followed for years (the “If Crisis or War Comes” brochure), that Germany's BBK guide teaches, and that Poland's Government Centre for Security (RCB) has been actively promoting since 2025/2026.",
       "This planner turns those recommendations into a concrete, checkable list — no doom-mongering, no conspiracy theories. It's the same logic as a fire extinguisher in the kitchen: you hope you never need it."
     ],
     "sources_note": "Sources and full figures — see the last page."
@@ -151,7 +151,7 @@
     ]
   },
   "grab_bag": {
-    "heading": "\"15 minutes to leave the house\" — the evacuation bag",
+    "heading": "“15 minutes to leave the house” — the evacuation bag",
     "intro": "If you're told to evacuate immediately, you won't have time to look for things. Pack this in advance, keep it in one place near the door, and check the contents every six months.",
     "categories": [
       {
@@ -246,7 +246,7 @@
     "adaptations": [
       {
         "title": "Storing supplies",
-        "text": "A garage, basement, or shed lets you keep a 7–10 day supply instead of just 72 hours — consider a rotating \"buy a bit extra every shopping trip\" system."
+        "text": "A garage, basement, or shed lets you keep a 7–10 day supply instead of just 72 hours — consider a rotating “buy a bit extra every shopping trip” system."
       },
       {
         "title": "An extra water source",
@@ -273,8 +273,8 @@
   "sources": {
     "heading": "Sources",
     "items": [
-      "Sweden — Myndigheten för samhällsskydd och beredskap (MSB), \"If Crisis or War Comes\" brochure (2024)",
-      "Germany — Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), \"Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen\"",
+      "Sweden — Myndigheten för samhällsskydd och beredskap (MSB), “If Crisis or War Comes” brochure (2024)",
+      "Germany — Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), “Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen”",
       "Poland — Government Centre for Security (RCB), 72-hour supply recommendations",
       "The Netherlands and Sweden — central bank recommendations on household cash reserves"
     ],

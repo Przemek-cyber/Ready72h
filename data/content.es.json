@@ -2,14 +2,14 @@
   "meta": {
     "lang": "es",
     "lang_name": "Español",
-    "product_name": "Gotowi72",
+    "product_name": "Ready72h",
     "tagline": "Planificador y listas de preparación ante crisis para el hogar",
     "subtitle": "Las primeras 72 horas sin electricidad, red o ayuda externa",
     "version": "1.0",
     "year": "2026"
   },
   "cover": {
-    "title": "Gotowi72",
+    "title": "Ready72h",
     "subtitle": "Planificador de preparación ante crisis para el hogar",
     "footer": "Basado en recomendaciones oficiales del RCB (Polonia), el BBK (Alemania) y el MSB (Suecia)"
   },
@@ -17,7 +17,7 @@
     "heading": "¿Por qué 72 horas?",
     "paragraphs": [
       "Los gobiernos de Suecia, Alemania y un número creciente de países de Europa Central y del Este recomiendan explícitamente a la ciudadanía prepararse para sobrevivir por su cuenta las primeras 72 horas de cualquier crisis —un fallo de la red eléctrica, una inundación, un ciberataque a infraestructuras o un incidente fronterizo— antes de que los servicios de emergencia y la ayuda estatal estén plenamente movilizados.",
-      "No es un escenario de película. Es el mismo estándar que Suecia mantiene desde hace años (el folleto \"Om krisen eller kriget kommer\", \"Si llega la crisis o la guerra\"), el que enseña la guía del BBK en Alemania, y el que el Centro Gubernamental de Seguridad de Polonia (RCB) promueve activamente desde 2025/2026.",
+      "No es un escenario de película. Es el mismo estándar que Suecia mantiene desde hace años (el folleto «Om krisen eller kriget kommer», «Si llega la crisis o la guerra»), el que enseña la guía del BBK en Alemania, y el que el Centro Gubernamental de Seguridad de Polonia (RCB) promueve activamente desde 2025/2026.",
       "Este planificador convierte esas recomendaciones en una lista concreta y verificable, sin alarmismo ni teorías de la conspiración. Es la misma lógica que un extintor en la cocina: esperas no necesitarlo nunca."
     ],
     "sources_note": "Fuentes y cifras completas: ver la última página."
@@ -151,7 +151,7 @@
     ]
   },
   "grab_bag": {
-    "heading": "\"15 minutos para salir de casa\": la mochila de evacuación",
+    "heading": "«15 minutos para salir de casa»: la mochila de evacuación",
     "intro": "Si te avisan de que hay que evacuar de inmediato, no tendrás tiempo de buscar cosas. Prepara esta mochila con antelación, guárdala en un sitio fijo cerca de la puerta y revisa su contenido cada seis meses.",
     "categories": [
       {
@@ -246,7 +246,7 @@
     "adaptations": [
       {
         "title": "Guardar los suministros",
-        "text": "El garaje, el sótano o el cobertizo permiten mantener reservas para 7–10 días en lugar de solo 72 horas: considera un sistema rotativo de \"comprar un poco más en cada compra\"."
+        "text": "El garaje, el sótano o el cobertizo permiten mantener reservas para 7–10 días en lugar de solo 72 horas: considera un sistema rotativo de «comprar un poco más en cada compra»."
       },
       {
         "title": "Una fuente de agua adicional",
@@ -273,8 +273,8 @@
   "sources": {
     "heading": "Fuentes",
     "items": [
-      "Suecia: Myndigheten för samhällsskydd och beredskap (MSB), folleto \"Om krisen eller kriget kommer\" (2024)",
-      "Alemania: Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), \"Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen\"",
+      "Suecia: Myndigheten för samhällsskydd och beredskap (MSB), folleto «Om krisen eller kriget kommer» (2024)",
+      "Alemania: Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), «Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen»",
       "Polonia: Centro Gubernamental de Seguridad (RCB), recomendaciones de suministros para 72 horas",
       "Países Bajos y Suecia: recomendaciones de los bancos centrales sobre la reserva de efectivo en el hogar"
     ],

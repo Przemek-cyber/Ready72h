@@ -2,14 +2,14 @@
   "meta": {
     "lang": "de",
     "lang_name": "Deutsch",
-    "product_name": "Gotowi72",
+    "product_name": "Ready72h",
     "tagline": "Notfallvorsorge-Planer und Checklisten für den Haushalt",
     "subtitle": "Die ersten 72 Stunden ohne Strom, Netz oder Hilfe von außen",
     "version": "1.0",
     "year": "2026"
   },
   "cover": {
-    "title": "Gotowi72",
+    "title": "Ready72h",
     "subtitle": "Notfallvorsorge-Planer für den Haushalt",
     "footer": "Basierend auf offiziellen Empfehlungen von RCB (Polen), BBK (Deutschland) und MSB (Schweden)"
   },
@@ -17,7 +17,7 @@
     "heading": "Warum 72 Stunden?",
     "paragraphs": [
       "Die Regierungen Schwedens, Deutschlands und einer wachsenden Zahl mittel- und osteuropäischer Länder empfehlen ihren Bürgern ausdrücklich, sich auf ein eigenständiges Überstehen der ersten 72 Stunden jeder Krisensituation vorzubereiten – ein Ausfall des Stromnetzes, ein Hochwasser, ein Cyberangriff auf die Infrastruktur oder ein Zwischenfall an der Grenze –, bevor Rettungsdienste und staatliche Hilfe vollständig einsatzbereit sind.",
-      "Das ist kein Filmszenario. Es ist derselbe Standard, den Schweden seit Jahren vertritt (Broschüre \"Om krisen eller kriget kommer\" / \"Falls Krise oder Krieg kommt\"), den der BBK-Ratgeber in Deutschland lehrt, und den Polens Regierungszentrum für Sicherheit (RCB) seit 2025/2026 aktiv bewirbt.",
+      "Das ist kein Filmszenario. Es ist derselbe Standard, den Schweden seit Jahren vertritt (Broschüre „Om krisen eller kriget kommer“ / „Falls Krise oder Krieg kommt“), den der BBK-Ratgeber in Deutschland lehrt, und den Polens Regierungszentrum für Sicherheit (RCB) seit 2025/2026 aktiv bewirbt.",
       "Dieser Planer macht aus diesen Empfehlungen eine konkrete, abhakbare Liste – ohne Panikmache, ohne Verschwörungstheorien. Es ist dieselbe Logik wie bei einem Feuerlöscher in der Küche: Man hofft, ihn nie zu brauchen."
     ],
     "sources_note": "Quellen und vollständige Zahlen – siehe letzte Seite."
@@ -151,7 +151,7 @@
     ]
   },
   "grab_bag": {
-    "heading": "\"15 Minuten, um das Haus zu verlassen\" – der Evakuierungsrucksack",
+    "heading": "„15 Minuten, um das Haus zu verlassen“ – der Evakuierungsrucksack",
     "intro": "Wenn eine sofortige Evakuierung angeordnet wird, bleibt keine Zeit, Dinge zu suchen. Packt diesen Rucksack im Voraus, bewahrt ihn an einem Ort nahe der Tür auf und überprüft den Inhalt alle sechs Monate.",
     "categories": [
       {
@@ -246,7 +246,7 @@
     "adaptations": [
       {
         "title": "Vorräte lagern",
-        "text": "Garage, Keller oder Schuppen erlauben einen Vorrat für 7–10 Tage statt nur 72 Stunden – ein rotierendes System (\"bei jedem Einkauf etwas mehr\") bietet sich an."
+        "text": "Garage, Keller oder Schuppen erlauben einen Vorrat für 7–10 Tage statt nur 72 Stunden – ein rotierendes System („bei jedem Einkauf etwas mehr“) bietet sich an."
       },
       {
         "title": "Zusätzliche Wasserquelle",
@@ -273,8 +273,8 @@
   "sources": {
     "heading": "Quellen",
     "items": [
-      "Schweden – Myndigheten för samhällsskydd och beredskap (MSB), Broschüre \"Om krisen eller kriget kommer\" (2024)",
-      "Deutschland – Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), \"Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen\"",
+      "Schweden – Myndigheten för samhällsskydd och beredskap (MSB), Broschüre „Om krisen eller kriget kommer“ (2024)",
+      "Deutschland – Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), „Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen“",
       "Polen – Regierungszentrum für Sicherheit (RCB), Empfehlungen zum 72-Stunden-Vorrat",
       "Niederlande und Schweden – Empfehlungen der Zentralbanken zur Bargeldreserve im Haushalt"
     ],

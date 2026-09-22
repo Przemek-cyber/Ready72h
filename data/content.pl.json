@@ -2,14 +2,14 @@
   "meta": {
     "lang": "pl",
     "lang_name": "Polski",
-    "product_name": "Gotowi72",
+    "product_name": "Ready72h",
     "tagline": "Planer i checklisty gotowości kryzysowej dla domu",
     "subtitle": "Pierwsze 72 godziny bez prądu, sieci lub pomocy z zewnątrz",
     "version": "1.0",
     "year": "2026"
   },
   "cover": {
-    "title": "Gotowi72",
+    "title": "Ready72h",
     "subtitle": "Planer gotowości kryzysowej dla gospodarstwa domowego",
     "footer": "Oparty na oficjalnych zaleceniach RCB (Polska), BBK (Niemcy) i MSB (Szwecja)"
   },
@@ -17,7 +17,7 @@
     "heading": "Dlaczego 72 godziny?",
     "paragraphs": [
       "Rządy Szwecji, Niemiec i coraz więcej krajów Europy Środkowo-Wschodniej wprost zalecają obywatelom przygotowanie się na samodzielne przetrwanie pierwszych 72 godzin każdej sytuacji kryzysowej – awarii sieci energetycznej, powodzi, cyberataku na infrastrukturę czy incydentu przy granicy – zanim służby i pomoc państwowa w pełni się zorganizują.",
-      "To nie jest scenariusz filmowy. To ten sam standard, który od lat obowiązuje w Szwecji (broszura \"Om krisen eller kriget kommer\"), Niemczech (poradnik BBK) i który od 2025/2026 roku promuje polskie Rządowe Centrum Bezpieczeństwa.",
+      "To nie jest scenariusz filmowy. To ten sam standard, który od lat obowiązuje w Szwecji (broszura „Om krisen eller kriget kommer”), Niemczech (poradnik BBK) i który od 2025/2026 roku promuje polskie Rządowe Centrum Bezpieczeństwa.",
       "Ten planer zamienia te zalecenia w konkretną, odhaczalną listę – bez katastrofizmu, bez teorii spiskowych. Chodzi o to samo, co gaśnica w kuchni: masz nadzieję, że nigdy jej nie użyjesz."
     ],
     "sources_note": "Źródła i pełne dane liczbowe – patrz ostatnia strona."
@@ -151,7 +151,7 @@
     ]
   },
   "grab_bag": {
-    "heading": "\"15 minut na wyjście z domu\" – plecak ewakuacyjny",
+    "heading": "„15 minut na wyjście z domu” – plecak ewakuacyjny",
     "intro": "Jeśli usłyszysz komunikat o konieczności natychmiastowej ewakuacji, nie masz czasu na szukanie rzeczy. Spakuj to wcześniej, trzymaj w jednym miejscu blisko wyjścia i sprawdzaj zawartość co pół roku.",
     "categories": [
       {
@@ -246,7 +246,7 @@
     "adaptations": [
       {
         "title": "Przechowywanie zapasów",
-        "text": "Garaż, piwnica lub szopa pozwalają trzymać zapas nawet na 7–10 dni zamiast tylko 72 godzin – rozważ rotacyjny system \"kupuj więcej przy każdych zakupach\"."
+        "text": "Garaż, piwnica lub szopa pozwalają trzymać zapas nawet na 7–10 dni zamiast tylko 72 godzin – rozważ rotacyjny system „kupuj więcej przy każdych zakupach”."
       },
       {
         "title": "Dodatkowe źródło wody",
@@ -273,8 +273,8 @@
   "sources": {
     "heading": "Źródła",
     "items": [
-      "Szwecja – Myndigheten för samhällsskydd och beredskap (MSB), broszura \"Om krisen eller kriget kommer\" (2024)",
-      "Niemcy – Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), \"Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen\"",
+      "Szwecja – Myndigheten för samhällsskydd och beredskap (MSB), broszura „Om krisen eller kriget kommer” (2024)",
+      "Niemcy – Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), „Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen”",
       "Polska – Rządowe Centrum Bezpieczeństwa (RCB), zalecenia dot. zapasów na 72 godziny",
       "Holandia i Szwecja – zalecenia banków centralnych dot. zapasu gotówki domowej"
     ],

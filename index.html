@@ -34,9 +34,11 @@ header.topbar{
 .brand .num{background:var(--accent); color:#fff; border-radius:8px; padding:1px 6px; font-size:13px;}
 .controls{display:flex; gap:6px;}
 select.lang-select{
-  background:rgba(255,255,255,0.14); color:#fff; border:1px solid rgba(255,255,255,0.4);
-  border-radius:8px; padding:6px 8px; font-size:13px; font-weight:600;
+  background:#fdf8ef; color:var(--teal-dark); border:1px solid rgba(255,255,255,0.6);
+  border-radius:8px; padding:6px 10px; font-size:13px; font-weight:800;
+  box-shadow:0 1px 3px rgba(0,0,0,0.25); cursor:pointer;
 }
+select.lang-select:focus-visible{outline:2px solid #fff; outline-offset:2px;}
 .tagline{max-width:720px; margin:6px auto 0; font-size:12.5px; color:#eadfca;}
 
 .variant-toggle{
