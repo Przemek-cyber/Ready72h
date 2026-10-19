@@ -1,4 +1,4 @@
-const CACHE_NAME = "ready72h-v5";
+const CACHE_NAME = "ready72h-v6";
 const CORE_ASSETS = [
   "./",
   "./index.html",

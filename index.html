@@ -31,7 +31,7 @@ header.topbar{
 }
 .topbar-row{display:flex; align-items:center; justify-content:space-between; gap:10px; max-width:720px; margin:0 auto;}
 .brand{display:flex; align-items:center; gap:8px; font-weight:800; font-size:18px; letter-spacing:-0.01em;}
-.brand .num{background:var(--accent); color:#fff; border-radius:8px; padding:1px 6px; font-size:13px;}
+.brand .num{background:#c9702c; color:#141414; border-radius:8px; padding:1px 6px; font-size:13px;}
 .controls{display:flex; gap:6px;}
 select.lang-select{
   background:#fdf8ef; color:var(--teal-dark); border:1px solid rgba(255,255,255,0.6);
@@ -105,7 +105,7 @@ ul.check-list li.done label{color:var(--ink-soft); text-decoration:line-through;
 .variant-hero p{margin:0; font-size:12.5px; color:#eadfca;}
 .adapt-card{background:var(--card); border:1px solid var(--line); border-radius:10px; padding:11px 13px; margin-bottom:9px;}
 .adapt-card h3{font-size:13.5px; margin:0 0 3px; font-family:Georgia,serif; display:flex; gap:7px; align-items:center;}
-.adapt-card h3 .num{background:var(--accent); color:#fff; width:19px;height:19px;border-radius:50%;font-size:11px;display:flex;align-items:center;justify-content:center;flex:none;}
+.adapt-card h3 .num{background:#c9702c; color:#141414; width:19px;height:19px;border-radius:50%;font-size:11px;display:flex;align-items:center;justify-content:center;flex:none;}
 .adapt-card p{font-size:12.8px; color:var(--ink-soft); margin:0 0 0 26px;}
 
 .sources-card{background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px 14px; font-size:12px; color:var(--ink-soft);}
@@ -133,7 +133,7 @@ nav.tabbar button.active{color:var(--teal-dark);}
 nav.tabbar button.active .dot{background:var(--teal-dark); color:#fff;}
 
 .offline-banner{
-  display:none; background:var(--accent); color:#fff; text-align:center; font-size:12px; padding:6px;
+  display:none; background:#c9702c; color:#141414; text-align:center; font-size:12px; padding:6px;
 }
 .offline-banner.show{display:block;}
 
@@ -171,7 +171,7 @@ select.gate-lang{
 .gate-card .gate-input{background:#fff; color:#1c2b33; border-color:#e3dccb;}
 .gate-card .gate-error{background:#f4e3d3; color:#9c4f1a;}
 .gate-buy{margin-top:18px; padding-top:16px; border-top:1px solid #e3dccb; text-align:center; font-size:13px; color:#5b7178;}
-.gate-buy-btn{display:block; margin-top:10px; background:var(--accent); color:#fff; text-decoration:none; font-weight:800; font-size:14.5px; border-radius:9px; padding:12px;}
+.gate-buy-btn{display:block; margin-top:10px; background:#c9702c; color:#141414; text-decoration:none; font-weight:800; font-size:14.5px; border-radius:9px; padding:12px;}
 .gate-buy-btn:hover{background:var(--accent-dark);}
 
 @media (prefers-color-scheme: dark){
@@ -208,8 +208,8 @@ select.gate-lang{
     <p class="gate-error" id="gateError" hidden></p>
     <p class="gate-hint" id="gateHint"></p>
     <div class="gate-buy">
-      <span id="gateBuyPrompt"></span>
-      <a class="gate-buy-btn" id="gateBuyLink" href="https://przemek.lemonsqueezy.com/checkout/buy/4ebf56da-3b44-4d2f-9928-e9aaaa581d5b" target="_blank" rel="noopener"></a>
+      <span id="gateBuyPrompt">Nie masz jeszcze klucza? Płacisz, ile chcesz.</span>
+      <a class="gate-buy-btn" id="gateBuyLink" href="https://przemek.lemonsqueezy.com/checkout/buy/4ebf56da-3b44-4d2f-9928-e9aaaa581d5b" target="_blank" rel="noopener">Kup Ready72h — od 2 zł →</a>
     </div>
   </div>
 </div>
