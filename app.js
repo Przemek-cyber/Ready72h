@@ -52,7 +52,8 @@
       errGeneric: "Nie udało się zweryfikować klucza. Spróbuj ponownie.",
       errInvalid: "Ten klucz jest nieprawidłowy albo już wykorzystany na maksymalnej liczbie urządzeń.",
       errNetwork: "Brak internetu — pierwsza aktywacja wymaga połączenia. Spróbuj ponownie, gdy będziesz online.",
-      errEmpty: "Wpisz swój klucz licencyjny."
+      errEmpty: "Wpisz swój klucz licencyjny.",
+      buyPrompt: "Nie masz jeszcze klucza? Płacisz, ile chcesz.", buyLink: "Kup Ready72h — od 2 zł →"
     },
     en: {
       heading: "Unlock Ready72h",
@@ -63,7 +64,8 @@
       errGeneric: "Couldn't verify this key. Please try again.",
       errInvalid: "This key is invalid or already used on the maximum number of devices.",
       errNetwork: "No internet connection — the first activation needs one. Try again once you're online.",
-      errEmpty: "Enter your license key."
+      errEmpty: "Enter your license key.",
+      buyPrompt: "No key yet? Pay what you want.", buyLink: "Get Ready72h — from 2 PLN →"
     },
     de: {
       heading: "Ready72h freischalten",
@@ -74,7 +76,8 @@
       errGeneric: "Der Schlüssel konnte nicht überprüft werden. Bitte versuche es erneut.",
       errInvalid: "Dieser Schlüssel ist ungültig oder bereits auf der maximalen Anzahl Geräte aktiviert.",
       errNetwork: "Keine Internetverbindung — die erste Aktivierung braucht eine. Versuch es erneut, sobald du online bist.",
-      errEmpty: "Gib deinen Lizenzschlüssel ein."
+      errEmpty: "Gib deinen Lizenzschlüssel ein.",
+      buyPrompt: "Noch keinen Schlüssel? Zahl, was du willst.", buyLink: "Ready72h holen — ab 2 PLN →"
     },
     es: {
       heading: "Desbloquea Ready72h",
@@ -85,7 +88,8 @@
       errGeneric: "No se pudo verificar esta clave. Inténtalo de nuevo.",
       errInvalid: "Esta clave no es válida o ya se usó en el número máximo de dispositivos.",
       errNetwork: "Sin conexión a internet — la primera activación necesita una. Vuelve a intentarlo cuando tengas conexión.",
-      errEmpty: "Introduce tu clave de licencia."
+      errEmpty: "Introduce tu clave de licencia.",
+      buyPrompt: "¿Aún sin clave? Paga lo que quieras.", buyLink: "Consigue Ready72h — desde 2 PLN →"
     }
   };
 
@@ -334,6 +338,8 @@
     el("gateInput").placeholder = t.placeholder;
     el("gateSubmit").textContent = t.submit;
     el("gateHint").textContent = t.hint;
+    el("gateBuyPrompt").textContent = t.buyPrompt;
+    el("gateBuyLink").textContent = t.buyLink;
   }
 
   function showGate() {
