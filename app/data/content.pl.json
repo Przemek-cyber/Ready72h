@@ -29,9 +29,9 @@
         "key": "water",
         "title": "Woda",
         "icon": "droplet",
-        "note": "Min. 3 litry na osobę dziennie (picie + gotowanie + podstawowa higiena) – zalecenie RCB. Niemiecki BBK podaje 1,5 l do picia + 0,5 l do gotowania jako absolutne minimum.",
+        "note": "RCB zaleca 2 litry na osobę dziennie do picia i gotowania (niemiecki BBK: 1,5 l do picia + 0,5 l do gotowania). Z podstawową higieną zaplanuj ok. 3 litry na osobę dziennie.",
         "items": [
-          "9 litrów wody butelkowanej na osobę (3 dni x 3 l) – w małych, poręcznych butelkach 1,5 l",
+          "9 litrów wody butelkowanej na osobę (3 dni x 3 l, z podstawową higieną; minimum 6 l) – w małych, poręcznych butelkach 1,5 l",
           "Dodatkowa woda do higieny i spłukiwania, jeśli jest miejsce na zapas",
           "Tabletki do uzdatniania wody lub filtr turystyczny jako plan B",
           "Butelka/pojemnik na wodę na osobę do napełnienia w razie ewakuacji"
@@ -72,7 +72,7 @@
         "key": "cash",
         "title": "Gotówka",
         "icon": "cash",
-        "note": "Przy awarii prądu lub sieci terminale i bankomaty przestają działać. Holandia zaleca ok. 70 EUR na dorosłego i 30 EUR na dziecko na 3 dni, Szwecja ok. 2000 SEK na osobę na tydzień.",
+        "note": "Przy awarii prądu lub sieci terminale i bankomaty przestają działać. Holandia zaleca ok. 70 EUR na dorosłego i 30 EUR na dziecko na 3 dni, szwedzki Riksbank – np. 1000 SEK w gotówce na dorosłego.",
         "items": [
           "Gotówka w małych nominałach (10–50 zł) – ok. 300–500 zł na dorosłego na 3 dni to rozsądny punkt startowy",
           "Trzymana w domu, nie tylko na koncie – konto może być czasowo niedostępne",

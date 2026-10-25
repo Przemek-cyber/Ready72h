@@ -29,9 +29,9 @@
         "key": "water",
         "title": "Water",
         "icon": "droplet",
-        "note": "At least 3 liters per person per day (drinking + cooking + basic hygiene) — Poland's RCB recommendation. Germany's BBK states 1.5 l for drinking + 0.5 l for cooking as an absolute minimum.",
+        "note": "Poland's RCB recommends 2 liters per person per day for drinking and cooking (Germany's BBK: 1.5 l for drinking + 0.5 l for cooking). With basic hygiene, plan about 3 liters per person per day.",
         "items": [
-          "9 liters of bottled water per person (3 days x 3 l) — in small, portable 1.5 l bottles",
+          "9 liters of bottled water per person (3 days x 3 l, incl. basic hygiene; minimum 6 l) — in small, portable 1.5 l bottles",
           "Extra water for hygiene and flushing, if you have storage space",
           "Water purification tablets or a travel filter as a backup plan",
           "A container per person to refill in case of evacuation"
@@ -72,7 +72,7 @@
         "key": "cash",
         "title": "Cash",
         "icon": "cash",
-        "note": "Card terminals and ATMs stop working during a power or network outage. The Netherlands recommends about €70 per adult and €30 per child for 3 days; Sweden about 2,000 SEK per person for a week.",
+        "note": "Card terminals and ATMs stop working during a power or network outage. The Netherlands recommends about €70 per adult and €30 per child for 3 days; Sweden's Riksbank suggests, for example, 1,000 SEK in cash per adult.",
         "items": [
           "Cash in small denominations (10–50 in your local currency) — as a starting point, aim for the equivalent of roughly 3 days' worth per adult",
           "Kept at home, not only in your bank account — accounts can become temporarily inaccessible",

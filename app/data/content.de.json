@@ -29,9 +29,9 @@
         "key": "water",
         "title": "Wasser",
         "icon": "droplet",
-        "note": "Mindestens 3 Liter pro Person und Tag (Trinken + Kochen + Grundhygiene) – Empfehlung der polnischen RCB. Das deutsche BBK nennt 1,5 l zum Trinken + 0,5 l zum Kochen als absolutes Minimum.",
+        "note": "Die polnische RCB empfiehlt 2 Liter pro Person und Tag zum Trinken und Kochen (BBK: 1,5 l zum Trinken + 0,5 l zum Kochen). Mit Grundhygiene etwa 3 Liter pro Person und Tag einplanen.",
         "items": [
-          "9 Liter Flaschenwasser pro Person (3 Tage x 3 l) – in kleinen, handlichen 1,5-l-Flaschen",
+          "9 Liter Flaschenwasser pro Person (3 Tage x 3 l, inkl. Grundhygiene; mindestens 6 l) – in kleinen, handlichen 1,5-l-Flaschen",
           "Zusätzliches Wasser für Hygiene und Spülung, falls Lagerplatz vorhanden ist",
           "Wasserreinigungstabletten oder ein Outdoor-Filter als Plan B",
           "Ein Gefäß pro Person zum Nachfüllen im Falle einer Evakuierung"
@@ -72,7 +72,7 @@
         "key": "cash",
         "title": "Bargeld",
         "icon": "cash",
-        "note": "Bei einem Strom- oder Netzausfall funktionieren Kartenterminals und Geldautomaten nicht mehr. Die Niederlande empfehlen ca. 70 € pro Erwachsenem und 30 € pro Kind für 3 Tage, Schweden ca. 2000 SEK pro Person pro Woche.",
+        "note": "Bei einem Strom- oder Netzausfall funktionieren Kartenterminals und Geldautomaten nicht mehr. Die Niederlande empfehlen ca. 70 € pro Erwachsenem und 30 € pro Kind für 3 Tage, die schwedische Riksbank z. B. 1000 SEK Bargeld pro Erwachsenem.",
         "items": [
           "Bargeld in kleinen Scheinen (10–50 €) – als Richtwert etwa der Gegenwert von 3 Tagen pro Erwachsenem",
           "Zu Hause aufbewahrt, nicht nur auf dem Konto – Konten können zeitweise nicht erreichbar sein",

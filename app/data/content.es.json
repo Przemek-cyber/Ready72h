@@ -29,9 +29,9 @@
         "key": "water",
         "title": "Agua",
         "icon": "droplet",
-        "note": "Mínimo 3 litros por persona al día (beber + cocinar + higiene básica), recomendación del RCB polaco. El BBK alemán indica 1,5 l para beber + 0,5 l para cocinar como mínimo absoluto.",
+        "note": "El RCB polaco recomienda 2 litros por persona al día para beber y cocinar (BBK alemán: 1,5 l para beber + 0,5 l para cocinar). Con higiene básica, calcula unos 3 litros por persona al día.",
         "items": [
-          "9 litros de agua embotellada por persona (3 días x 3 l), en botellas pequeñas y manejables de 1,5 l",
+          "9 litros de agua embotellada por persona (3 días x 3 l, con higiene básica; mínimo 6 l), en botellas pequeñas y manejables de 1,5 l",
           "Agua adicional para higiene y para la cisterna, si hay espacio de almacenaje",
           "Pastillas potabilizadoras o un filtro de viaje como plan B",
           "Un recipiente por persona para rellenar en caso de evacuación"
@@ -72,7 +72,7 @@
         "key": "cash",
         "title": "Efectivo",
         "icon": "cash",
-        "note": "Con un corte de luz o de red, los terminales de tarjeta y los cajeros dejan de funcionar. Países Bajos recomienda unos 70 € por adulto y 30 € por niño para 3 días; Suecia, unas 2000 SEK por persona para una semana.",
+        "note": "Con un corte de luz o de red, los terminales de tarjeta y los cajeros dejan de funcionar. Países Bajos recomienda unos 70 € por adulto y 30 € por niño para 3 días; el Riksbank sueco sugiere, por ejemplo, 1000 SEK en efectivo por adulto.",
         "items": [
           "Efectivo en billetes pequeños (10–50 en tu moneda local); como punto de partida, el equivalente a unos 3 días por adulto",
           "Guardado en casa, no solo en la cuenta bancaria: las cuentas pueden quedar temporalmente inaccesibles",
