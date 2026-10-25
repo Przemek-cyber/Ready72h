@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Emergency cash calculator: how much cash to keep at home?</title>
+<meta name="description" content="Free calculator based on central-bank benchmarks: how much cash your household should keep for the first 72 hours of a blackout.">
+<link rel="canonical" href="https://ready72h.com/tools/emergency-cash-calculator/">
+<link rel="alternate" hreflang="en" href="https://ready72h.com/tools/emergency-cash-calculator/"><link rel="alternate" hreflang="pl" href="https://ready72h.com/pl/narzedzia/kalkulator-gotowki/"><link rel="alternate" hreflang="x-default" href="https://ready72h.com/tools/emergency-cash-calculator/">
+<meta property="og:title" content="Emergency cash calculator: how much cash to keep at home?">
+<meta property="og:description" content="Free calculator based on central-bank benchmarks: how much cash your household should keep for the first 72 hours of a blackout.">
+<meta property="og:url" content="https://ready72h.com/tools/emergency-cash-calculator/">
+<meta property="og:image" content="https://ready72h.com/icons/icon-512.png">
+<meta name="theme-color" content="#16514e">
+<link rel="icon" href="/icons/icon-192.png">
+<link rel="stylesheet" href="/site/site.css">
+
+</head>
+<body>
+<header class="top"><div class="wrap topin"><a class="brand" href="/"><svg class="mark" viewBox="0 0 100 100" aria-hidden="true"><polygon points="50,6 6,94 50,94" fill="#16514e"/><polygon points="50,6 94,94 50,94" fill="#c9702c"/></svg><span>Ready72h</span></a>
+<nav><a class="hide-s" href="/guides/">Guides</a><a class="hide-s" href="/tools/water-calculator/">Calculators</a><a class="lang" href="/pl/narzedzia/kalkulator-gotowki/" hreflang="pl" title="Polski">PL</a><a class="pill" href="/app/">Open the app</a></nav></div></header>
+<main class="wrap">
+
+<h1>Emergency cash calculator</h1><p class="lead">How much cash should you keep at home for a power or network outage?</p>
+<div class="calc">
+<label>Adults<input id="a" type="number" min="0" max="20" value="2"></label>
+<label>Children<input id="c" type="number" min="0" max="20" value="2"></label>
+<div class="result"><span class="k">Dutch central bank benchmark for 72 hours</span><span class="v" id="r">–</span><span class="d" id="r2"></span></div>
+</div>
+<script>(function(){function u(){var a=+document.getElementById('a').value||0,c=+document.getElementById('c').value||0;
+document.getElementById('r').textContent='€'+(a*70+c*30).toLocaleString('en');
+document.getElementById('r2').textContent='Swedish Riksbank example: '+(a*1000).toLocaleString('en')+' SEK';}
+['a','c'].forEach(function(i){document.getElementById(i).addEventListener('input',u);});u();})();</script>
+<p class="muted small">De Nederlandsche Bank: €70 per adult and €30 per child for 72 hours. Riksbank: for example 1,000 kronor per adult. Convert to your own currency.</p>
+<p><a href="/guides/emergency-cash/">Read the guide: how much cash for a blackout →</a></p>
+<section class="cta"><h2>Get your household's full 72-hour plan</h2><p>Ready72h turns official guidance from Sweden (MSB), Germany (BBK) and Poland (RCB) into a calm, practical plan: a complete 72-hour supply checklist, a family communication plan for when phones go down, and a “15 minutes to leave the house” go-bag list. Apartment and house versions, printable PDF plus an offline app that tracks your progress.</p>
+<div class="row"><a class="btn" href="https://przemek.lemonsqueezy.com/checkout/buy/4ebf56da-3b44-4d2f-9928-e9aaaa581d5b" rel="nofollow">Get Ready72h</a><a class="btn ghost" href="/app/">Already have access? Open the app</a></div>
+<p class="muted small">Pay what you want, from 2 PLN · PDF planner + offline app · PL / EN / DE / ES</p></section>
+</main>
+<footer class="foot"><div class="wrap">
+<p><a href="/">Ready72h</a> · <a href="/guides/">Guides</a> · <a href="/tools/water-calculator/">Calculators</a> · <a href="/app/">Open the app</a></p>
+<p class="muted">General, educational information. Always follow current guidance from your local authorities and emergency services.</p>
+</div></footer>
+</body>
+</html>

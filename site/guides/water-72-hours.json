@@ -1,0 +1,100 @@
+{
+ "slug": "water-72-hours",
+ "tool": "water",
+ "sources": [
+  {
+   "title": "Bankier.pl – RCB: two litres of water per person per day (2025)",
+   "url": "https://www.bankier.pl/wiadomosc/14-litrow-wody-i-co-jeszcze-RCB-Musimy-przygotowac-sie-do-przetrwania-8912356.html"
+  },
+  {
+   "title": "Verbraucherzentrale Niedersachsen – Trinkwasservorrat",
+   "url": "https://www.verbraucherzentrale-niedersachsen.de/node/125990"
+  },
+  {
+   "title": "Wrocław.pl – Dom gotowy na wszystko: jak przetrwać 72 godziny",
+   "url": "https://www.wroclaw.pl/dla-mieszkanca/dom-gotowy-na-wszystko-jak-przetrwac-72-godziny"
+  }
+ ],
+ "en": {
+  "slug": "water-72-hours",
+  "title": "How much water do you need for 72 hours?",
+  "description": "How much drinking water to store for a 72-hour emergency: 2 litres per person per day as a minimum, more with hygiene – with a free calculator for your household.",
+  "summary": "Plan at least 2 litres of water per person per day for drinking and cooking – that's 6 litres per person for 72 hours. With basic hygiene, plan around 3 litres a day.",
+  "sections": [
+   {
+    "h": "The short answer",
+    "p": [
+     "Poland's Government Centre for Security (RCB) recommends two litres of water per person per day. For 72 hours that is 6 litres per person – 24 litres for a family of four.",
+     "German consumer advice (Verbraucherzentrale) also recommends at least two litres per person per day and suggests keeping a supply for ten days.",
+     "If you also want water for basic hygiene, many local guides use about 3 litres per person per day – 9 litres per person for 72 hours."
+    ]
+   },
+   {
+    "h": "How to store it",
+    "p": [
+     "Small bottles (1.5 l) are easier to carry if you have to leave the house; larger canisters work well as a home reserve.",
+     "Keep the water in a cool, dark place and check the dates every few months – rotate it into everyday use before it expires.",
+     "Remember pets: they need their own water supply."
+    ]
+   },
+   {
+    "h": "Don't forget the backup",
+    "p": [
+     "Water purification tablets or a travel filter are a cheap backup if your supply runs out.",
+     "Keep one refillable container per person in case you need to evacuate."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "How much water per person for 3 days?",
+    "a": "At least 6 litres (2 litres a day, the RCB recommendation). With basic hygiene, plan around 9 litres."
+   },
+   {
+    "q": "How much water for a family of four for 72 hours?",
+    "a": "At least 24 litres for drinking and cooking, or about 36 litres if you include basic hygiene."
+   }
+  ]
+ },
+ "pl": {
+  "slug": "woda-na-72-godziny",
+  "title": "Ile wody potrzebujesz na 72 godziny?",
+  "description": "Ile wody pitnej zgromadzić na 72 godziny kryzysu: minimum 2 litry na osobę dziennie, więcej z higieną – z darmowym kalkulatorem dla Twojego domu.",
+  "summary": "Zaplanuj co najmniej 2 litry wody na osobę dziennie do picia i gotowania – to 6 litrów na osobę na 72 godziny. Z podstawową higieną licz ok. 3 litry dziennie.",
+  "sections": [
+   {
+    "h": "Krótka odpowiedź",
+    "p": [
+     "Rządowe Centrum Bezpieczeństwa (RCB) zaleca dwa litry wody na osobę dziennie. Na 72 godziny to 6 litrów na osobę – 24 litry dla czteroosobowej rodziny.",
+     "Niemieckie centrum porad konsumenckich (Verbraucherzentrale) również zaleca co najmniej dwa litry na osobę dziennie i radzi mieć zapas na dziesięć dni.",
+     "Jeśli chcesz mieć wodę także na podstawową higienę, wiele lokalnych poradników przyjmuje ok. 3 litry na osobę dziennie – 9 litrów na osobę na 72 godziny."
+    ]
+   },
+   {
+    "h": "Jak przechowywać",
+    "p": [
+     "Małe butelki (1,5 l) łatwiej zabrać, jeśli trzeba wyjść z domu; większe kanistry sprawdzą się jako zapas w domu.",
+     "Trzymaj wodę w chłodnym, ciemnym miejscu i co kilka miesięcy sprawdzaj daty – zużywaj ją na co dzień, zanim się przeterminuje.",
+     "Pamiętaj o zwierzętach: potrzebują własnego zapasu wody."
+    ]
+   },
+   {
+    "h": "Plan awaryjny",
+    "p": [
+     "Tabletki do uzdatniania wody albo filtr turystyczny to tani zapas na wypadek, gdyby woda się skończyła.",
+     "Miej jeden pojemnik do napełnienia na osobę na wypadek ewakuacji."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Ile wody na osobę na 3 dni?",
+    "a": "Co najmniej 6 litrów (2 litry dziennie, zalecenie RCB). Z podstawową higieną zaplanuj ok. 9 litrów."
+   },
+   {
+    "q": "Ile wody dla czteroosobowej rodziny na 72 godziny?",
+    "a": "Co najmniej 24 litry do picia i gotowania albo ok. 36 litrów z podstawową higieną."
+   }
+  ]
+ }
+}

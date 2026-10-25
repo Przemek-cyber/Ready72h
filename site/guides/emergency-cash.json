@@ -1,0 +1,92 @@
+{
+ "slug": "emergency-cash",
+ "tool": "cash",
+ "sources": [
+  {
+   "title": "De Nederlandsche Bank – Contant geld in jouw noodpakket",
+   "url": "https://www.dnb.nl/betalen/contant-geld-in-jouw-noodpakket/"
+  },
+  {
+   "title": "Sveriges Riksbank – Rekommendationer till allmänheten",
+   "url": "https://www.riksbank.se/sv/betalningar--kontanter/betalningsberedskap/rekommendationer-till-allmanheten/"
+  }
+ ],
+ "en": {
+  "slug": "emergency-cash",
+  "title": "How much cash should you keep at home for a blackout?",
+  "description": "Card terminals and ATMs stop in a power or network outage. Central-bank benchmarks for emergency cash – €70 per adult and €30 per child for 72 hours – with a free calculator.",
+  "summary": "The Dutch central bank recommends €70 per adult and €30 per child to get through the first 72 hours. Sweden's Riksbank suggests, for example, 1,000 kronor in cash per adult.",
+  "sections": [
+   {
+    "h": "Why cash matters in a crisis",
+    "p": [
+     "In a power or network outage, card terminals, ATMs and online banking can stop working at the same time. Cash at home lets you buy food, water or fuel when cards don't work."
+    ]
+   },
+   {
+    "h": "Official benchmarks",
+    "p": [
+     "De Nederlandsche Bank (the Dutch central bank) recommends keeping €70 per adult and €30 per child for the first 72 hours of an emergency.",
+     "Sweden's Riksbank recommends that households have several ways to pay during disruptions – for example 1,000 kronor in cash per adult.",
+     "There is no official amount for every country, so use these as a reference and convert to your own currency."
+    ]
+   },
+   {
+    "h": "Practical tips",
+    "p": [
+     "Keep small notes – shops may not have change.",
+     "Store it somewhere safe but easy to reach quickly, not in a place you can't access in a hurry."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "How much emergency cash for a family of four?",
+    "a": "With the Dutch benchmark: 2 adults × €70 + 2 children × €30 = €200 for 72 hours."
+   },
+   {
+    "q": "Why not just rely on cards?",
+    "a": "In a power or network outage card payments and ATMs may not work at all."
+   }
+  ]
+ },
+ "pl": {
+  "slug": "gotowka-na-blackout",
+  "title": "Ile gotówki trzymać w domu na wypadek blackoutu?",
+  "description": "Przy awarii prądu lub sieci terminale i bankomaty przestają działać. Zalecenia banków centralnych – 70 € na dorosłego i 30 € na dziecko na 72 godziny – z darmowym kalkulatorem.",
+  "summary": "Holenderski bank centralny zaleca 70 € na dorosłego i 30 € na dziecko na pierwsze 72 godziny. Szwedzki Riksbank sugeruje np. 1000 koron w gotówce na dorosłego.",
+  "sections": [
+   {
+    "h": "Dlaczego gotówka jest ważna w kryzysie",
+    "p": [
+     "Przy awarii prądu lub sieci mogą jednocześnie przestać działać terminale płatnicze, bankomaty i bankowość internetowa. Gotówka w domu pozwala kupić jedzenie, wodę czy paliwo, gdy karty nie działają."
+    ]
+   },
+   {
+    "h": "Oficjalne zalecenia",
+    "p": [
+     "De Nederlandsche Bank (bank centralny Holandii) zaleca trzymanie 70 € na dorosłego i 30 € na dziecko na pierwsze 72 godziny sytuacji kryzysowej.",
+     "Szwedzki Riksbank zaleca, by gospodarstwa domowe miały kilka sposobów płatności na wypadek zakłóceń – na przykład 1000 koron w gotówce na dorosłego.",
+     "Nie ma oficjalnej kwoty dla każdego kraju, więc traktuj te liczby jako punkt odniesienia i przelicz na swoją walutę."
+    ]
+   },
+   {
+    "h": "Praktyczne wskazówki",
+    "p": [
+     "Trzymaj drobne nominały – sklepy mogą nie mieć wydać reszty.",
+     "Przechowuj ją w bezpiecznym, ale szybko dostępnym miejscu."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Ile gotówki dla czteroosobowej rodziny?",
+    "a": "Według zalecenia holenderskiego: 2 dorosłych × 70 € + 2 dzieci × 30 € = 200 € na 72 godziny."
+   },
+   {
+    "q": "Dlaczego nie polegać tylko na kartach?",
+    "a": "Przy awarii prądu lub sieci płatności kartą i bankomaty mogą w ogóle nie działać."
+   }
+  ]
+ }
+}

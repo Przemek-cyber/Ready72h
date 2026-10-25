@@ -1,0 +1,48 @@
+name: Guides (SEO)
+
+# Twice a week an agent researches the next topic from site/queue.txt (web search + fact check),
+# saves site/guides/<slug>.json (EN + PL) and rebuilds the website, sitemap.xml and llms.txt.
+on:
+  schedule:
+    - cron: "37 8 * * 2,5"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "How many new guides to research (0 = only rebuild pages)"
+        default: "1"
+  push:
+    branches: [main]
+    paths: ["site/**", "scripts/build_site.py"]
+
+permissions:
+  contents: write
+
+concurrency: guides
+
+jobs:
+  guides:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Research new guide
+        if: github.event_name != 'push' && (github.event_name == 'schedule' || inputs.count != '0')
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          COUNT: ${{ inputs.count || '1' }}
+        run: python scripts/research_guide.py --count "$COUNT"
+      - name: Build website
+        run: python scripts/build_site.py
+      - name: Commit
+        run: |
+          git config user.name "ready72h-bot"
+          git config user.email "ready72h-bot@users.noreply.github.com"
+          git add -A site guides pl tools index.html sitemap.xml robots.txt llms.txt
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Website: update guides"
+          for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && break; sleep 5; done

@@ -1,0 +1,11 @@
+# Ready72h
+
+> Household preparedness planner for the first 72 hours of a crisis (power outage, flood, network blackout), based on official guidance from Sweden (MSB), Germany (BBK) and Poland (RCB). Printable PDF + offline app, PL/EN/DE/ES, pay what you want from 2 PLN.
+
+## Free calculators
+- [Emergency water calculator](https://ready72h.com/tools/water-calculator/)
+- [Emergency cash calculator](https://ready72h.com/tools/emergency-cash-calculator/)
+
+## Guides
+- [How much cash should you keep at home for a blackout?](https://ready72h.com/guides/emergency-cash/): The Dutch central bank recommends €70 per adult and €30 per child to get through the first 72 hours. Sweden's Riksbank suggests, for example, 1,000 kronor in cash per adult.
+- [How much water do you need for 72 hours?](https://ready72h.com/guides/water-72-hours/): Plan at least 2 litres of water per person per day for drinking and cooking – that's 6 litres per person for 72 hours. With basic hygiene, plan around 3 litres a day.
