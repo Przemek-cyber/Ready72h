@@ -72,10 +72,15 @@ def call(messages: list, tools: list) -> dict:
     raise RuntimeError("Claude API: too many retries")
 
 
-def research(topic: str) -> dict:
+def research(topic: str, feedback: str = "", draft: dict | None = None) -> dict:
     tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 8},
              {"name": "save_guide", "description": "Save the guide.", "input_schema": SCHEMA}]
-    messages = [{"role": "user", "content": f"Write and save a guide on: {topic}"}]
+    ask = f"Write and save a guide on: {topic}"
+    if feedback:
+        ask += ("\n\nA fact-checker rejected your previous draft. Fix EVERY problem below: remove or re-attribute any claim "
+                "that is not supported by a source in the sources list (add the source you actually read if needed). "
+                f"Problems:\n{feedback}\n\nPrevious draft:\n{json.dumps(draft, ensure_ascii=False)}")
+    messages = [{"role": "user", "content": ask}]
     for _ in range(6):
         resp = call(messages, tools)
         for b in resp.get("content", []):
@@ -137,7 +142,13 @@ def main() -> None:
         try:
             g = research(topic)
             validate(g)
-            verify(g)
+            try:
+                verify(g)
+            except RuntimeError as e:  # jedna poprawka z uwagami fact-checkera
+                print(f"::notice title=Poprawka po fact-checku::{str(e)[:300]}")
+                g = research(topic, str(e), g)
+                validate(g)
+                verify(g)
             (GUIDES / f"{g['slug']}.json").write_text(json.dumps(g, ensure_ascii=False, indent=1), encoding="utf-8")
             made.append(g["slug"])
             print(f"::notice title=Nowy poradnik::{g['en']['title']} / {g['pl']['title']}")
