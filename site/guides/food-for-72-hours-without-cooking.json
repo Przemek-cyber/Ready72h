@@ -1,0 +1,110 @@
+{
+ "slug": "food-for-72-hours-without-cooking",
+ "tool": null,
+ "sources": [
+  {
+   "title": "Ready.gov – Food (Suggested Emergency Food Supplies)",
+   "url": "https://www.ready.gov/food"
+  },
+  {
+   "title": "BBK – Essen und Trinken bevorraten",
+   "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/So-koennen-Sie-sich-vorbereiten/Bevorraten/bevorraten_node.html"
+  },
+  {
+   "title": "GazetaPrawna – Rządowy poradnik kryzysowy (rzecznik RCB)",
+   "url": "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/9762893,rzadowy-poradnik-kryzysowy-co-warto-miec-w-domu-na-wypadek-zagrozenia.html"
+  },
+  {
+   "title": "Kobieta.co.pl – MSWiA i RCB: zapasy na 3 dni (omówienie Poradnika bezpieczeństwa)",
+   "url": "https://kobieta.co.pl/mswia-i-rcb-wydaly-jasne-wytyczne-dla-wszystkich-domu-te-zapasy-na-3-dni-musisz-przygotowac-jak-najszybciej-43270614.html"
+  }
+ ],
+ "en": {
+  "slug": "food-for-72-hours-without-cooking",
+  "title": "What food to store for 72 hours without cooking?",
+  "description": "Which ready-to-eat foods to keep at home for a 3-day power or supply outage: canned goods, bars, crackers, dried fruit and nuts, per RCB, BBK and Ready.gov.",
+  "summary": "Choose long-life food you can eat straight from the pack: canned meat, fish, vegetables and fruit, crackers, bars, nuts, dried fruit and peanut butter, plus a manual can opener and utensils. Ready.gov, BBK and Poland's RCB all point to food that needs no refrigeration, cooking or special preparation.",
+  "sections": [
+   {
+    "h": "What to choose: ready to eat, no fridge needed",
+    "p": [
+     "Ready.gov advises stocking canned foods, dry mixes and other staples that do not require refrigeration, cooking, water or special preparation. Its suggested list includes ready-to-eat canned meats, fruits and vegetables, protein or fruit bars, dry cereal or granola, peanut butter, dried fruit, canned juices and high-energy foods. It also suggests comfort foods.",
+     "Germany's BBK gives similar examples: dried fruit, canned fruit, vegetables, meat and fish, dried meat or sausage, nuts, rusks and muesli bars. BBK explains the logic. Food that is already cooked is useful when the stove stops working in a power cut. Food that keeps without cooling is useful when the fridge and freezer fail.",
+     "In Poland, the government's Safety Guide (MSWiA, MON and RCB) lists canned food, rusks and bars as examples for power outages, as reported by the media. An RCB spokesperson also said food that needs no heat treatment, such as tinned or jarred meals, is the key thing to stock."
+    ]
+   },
+   {
+    "h": "Check that it really needs no cooking",
+    "p": [
+     "Dry rice and pasta are good pantry staples. As one summary of the Polish guide points out, they still need water and a way to prepare them. For a strict 72-hour no-cook set, make sure most meals can be eaten cold, straight from the pack.",
+     "Ready.gov says to include a manual can opener and eating utensils. The same Polish summary suggests small packs so that a whole portion gets eaten once it is opened. It also suggests sketching a simple meal plan to see whether the stock will last your household three days."
+    ]
+   },
+   {
+    "h": "Tailor it to your household and keep it fresh",
+    "p": [
+     "Ready.gov advises choosing foods your family will actually eat and remembering special dietary needs. That includes infants. For allergies, intolerances and children, pick products that suit each person.",
+     "RCB guidance, as summarised in the media, is to keep food in a cool, dry, dark place. Use the items with the shortest dates first and replace them with new ones. Ordinary supermarket food you eat anyway is enough, so you don't need specialist products."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Is it mandatory to store 72 hours of food in Poland?",
+    "a": "No. Media reports on the government's Safety Guide stress that it is a recommendation. There is no legal duty to keep a set amount of food, water or cash at home."
+   },
+   {
+    "q": "Can I count rice and pasta in a no-cook supply?",
+    "a": "Only if you can still prepare them. They need water and a heat source, so for a strict no-cook plan rely mainly on canned goods, crackers, bars, nuts, dried fruit and similar foods."
+   },
+   {
+    "q": "What else should go with the food?",
+    "a": "Ready.gov says to add a manual can opener and eating utensils. Also check the foods suit everyone's diet, including infants and anyone with allergies."
+   }
+  ]
+ },
+ "pl": {
+  "slug": "jaka-zywnosc-na-72-godziny-bez-gotowania",
+  "title": "Jaką żywność zgromadzić na 72 godziny bez gotowania?",
+  "description": "Jakie produkty gotowe do zjedzenia mieć w domu na 3 dni bez prądu lub dostaw: konserwy, batony, suchary, suszone owoce i orzechy według RCB, BBK i Ready.gov.",
+  "summary": "Wybierz trwałą żywność, którą można zjeść prosto z opakowania: konserwy mięsne, rybne, warzywne i owocowe, suchary, batony, orzechy, suszone owoce i masło orzechowe. Do tego ręczny otwieracz i sztućce. Ready.gov, niemiecki BBK i polskie RCB wskazują na jedzenie niewymagające chłodzenia ani gotowania.",
+  "sections": [
+   {
+    "h": "Co wybrać: gotowe do jedzenia, bez lodówki",
+    "p": [
+     "Ready.gov radzi gromadzić konserwy, suche mieszanki i inne produkty, które nie wymagają chłodzenia, gotowania, wody ani specjalnego przygotowania. Na jego liście są gotowe do spożycia konserwy mięsne, owocowe i warzywne, batony proteinowe lub owocowe, płatki lub granola, masło orzechowe, suszone owoce, soki w puszkach i żywność wysokoenergetyczna. Są tam też produkty poprawiające samopoczucie.",
+     "Niemiecki BBK podaje podobne przykłady: suszone owoce, konserwy owocowe, warzywne, mięsne i rybne, suszone mięso lub kiełbasę, orzechy, suchary i batony musli. BBK wyjaśnia sens takiego wyboru. Jedzenie, które nie wymaga gotowania, przydaje się, gdy podczas awarii prądu przestaje działać kuchenka. Jedzenie, które nie wymaga chłodzenia, przydaje się, gdy przestają działać lodówka i zamrażarka.",
+     "W Polsce rządowy Poradnik bezpieczeństwa (MSWiA, MON i RCB) wymienia jako przykłady na czas braku prądu konserwy, suchary i batony, jak podają media. Rzecznik RCB mówił też, że kluczowe są zapasy żywności niewymagającej obróbki termicznej, czyli konserw lub zawekowanych potraw."
+    ]
+   },
+   {
+    "h": "Sprawdź, czy naprawdę nie trzeba gotować",
+    "p": [
+     "Suchy ryż i makaron to dobre produkty do spiżarni. Jak zauważa jedno z omówień polskiego poradnika, nadal potrzebują wody i sposobu przygotowania. W zestawie na 72 godziny bez gotowania większość posiłków powinna nadawać się do zjedzenia na zimno, prosto z opakowania.",
+     "Ready.gov radzi dołożyć ręczny otwieracz do puszek i sztućce. To samo omówienie polskiego poradnika sugeruje małe opakowania, żeby po otwarciu dało się zjeść całą porcję. Warto też rozpisać prosty plan posiłków i sprawdzić, czy zapas wystarczy domownikom na trzy dni."
+    ]
+   },
+   {
+    "h": "Dopasuj zapas do domowników i pilnuj dat",
+    "p": [
+     "Ready.gov zaleca wybierać produkty, które rodzina naprawdę zje, i pamiętać o specjalnych dietach. Dotyczy to także niemowląt. Przy alergiach, nietolerancjach i potrzebach dzieci wybieraj produkty odpowiednie dla każdej osoby.",
+     "Według zaleceń RCB, jak podsumowują je media, żywność trzymaj w chłodnym, suchym i ciemnym miejscu. Najpierw zużywaj produkty z najkrótszą datą, a potem zastępuj je nowymi. Wystarczy zwykła żywność ze sklepu, którą i tak jesz, więc nie musisz kupować specjalistycznych produktów."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Czy zapas żywności na 72 godziny jest w Polsce obowiązkowy?",
+    "a": "Nie. Media, opisując rządowy Poradnik bezpieczeństwa, podkreślają, że to rekomendacja. Nie ma obowiązku przechowywania w domu określonej ilości żywności, wody ani gotówki."
+   },
+   {
+    "q": "Czy ryż i makaron liczą się do zapasu bez gotowania?",
+    "a": "Tylko wtedy, gdy nadal możesz je przygotować. Potrzebują wody i źródła ciepła, więc w planie bez gotowania opieraj się głównie na konserwach, sucharach, batonach, orzechach, suszonych owocach i podobnych produktach."
+   },
+   {
+    "q": "Co jeszcze warto trzymać razem z jedzeniem?",
+    "a": "Ready.gov radzi dołożyć ręczny otwieracz do puszek i sztućce. Sprawdź też, czy produkty pasują do diety wszystkich domowników, w tym niemowląt i osób z alergiami."
+   }
+  ]
+ }
+}
