@@ -147,6 +147,15 @@
           "Planificad con antelación la ayuda para familiares o vecinos mayores, enfermos o con discapacidad",
           "Anotad sus necesidades (medicación, equipo, movilidad) en un sitio accesible para toda la familia"
         ]
+      },
+      {
+        "title": "6. Si alguien en casa necesita ayuda",
+        "points": [
+          "Pide a al menos tres personas cercanas que comprueben cómo estás en una emergencia y dale a una de ellas una llave de casa",
+          "Enseña a tus ayudantes a manejar tu equipo (silla de ruedas, respirador, tabla de transferencia) y practicad juntos",
+          "Mantén la ruta de evacuación libre de muebles; en un edificio, acuerda con la administración cómo salir si el ascensor no funciona",
+          "Cuando se recomiende evacuar, sal con antelación; pregunta en tu ayuntamiento qué refugios son accesibles en silla de ruedas"
+        ]
       }
     ]
   },
@@ -210,6 +219,15 @@
         "items": [
           "Llaves de repuesto de la casa y el coche",
           "La llave o herramienta para cortar el gas o el agua manualmente, si es necesario"
+        ]
+      },
+      {
+        "title": "Discapacidad, silla de ruedas, personas mayores",
+        "items": [
+          "Si no es posible cargar una mochila pesada: una bolsa más ligera que se cuelgue de la silla de ruedas o una pequeña bolsa con ruedas, y acordar quién lleva el resto",
+          "Kit de reparación de la silla: parches para neumáticos, cámara de repuesto, guantes gruesos contra cristales y escombros",
+          "Silla eléctrica, scooter o dispositivo médico: cargador, batería de repuesto o power bank, y saber cómo pasar a la alimentación de emergencia",
+          "Material médico diario (p. ej. sondas, guantes, toallitas) e instrucciones escritas de uso de tu equipo, marcadas con tu nombre y teléfono"
         ]
       }
     ]
@@ -276,7 +294,9 @@
       "Suecia: Myndigheten för samhällsskydd och beredskap (MSB), folleto «Om krisen eller kriget kommer» (2024)",
       "Alemania: Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), «Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen»",
       "Polonia: Centro Gubernamental de Seguridad (RCB), recomendaciones de suministros para 72 horas",
-      "Países Bajos y Suecia: recomendaciones de los bancos centrales sobre la reserva de efectivo en el hogar"
+      "Países Bajos y Suecia: recomendaciones de los bancos centrales sobre la reserva de efectivo en el hogar",
+      "Cruz Roja Canadiense – planificación ante desastres para personas con discapacidad",
+      "Christopher & Dana Reeve Foundation – guía de preparación ante emergencias para personas con parálisis"
     ],
     "disclaimer": "Este planificador tiene un carácter general e informativo. En temas como las pastillas de yoduro de potasio, las órdenes de evacuación o la asistencia médica, sigue siempre las indicaciones vigentes de las autoridades y servicios de emergencia locales."
   }

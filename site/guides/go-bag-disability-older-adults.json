@@ -1,0 +1,106 @@
+{
+ "slug": "go-bag-disability-older-adults",
+ "tool": null,
+ "sources": [
+  {
+   "title": "Canadian Red Cross – Disaster planning when living with disabilities",
+   "url": "https://redcross.ca/blog/2021/6/disaster-planning-when-living-with-disabilities"
+  },
+  {
+   "title": "Christopher & Dana Reeve Foundation – Emergency preparedness booklet",
+   "url": "https://www.christopherreeve.org/wp-content/uploads/2026/05/Emergency-Prep-Booklet_DE.pdf"
+  }
+ ],
+ "en": {
+  "slug": "go-bag-disability-older-adults",
+  "title": "Emergency go-bag for wheelchair users, people with disabilities and older adults",
+  "description": "How to prepare an evacuation bag and plan when you use a wheelchair, can't carry a heavy backpack or depend on medical equipment – based on Red Cross guidance.",
+  "summary": "If carrying a 10 kg backpack isn't realistic, plan around a lighter bag, the right repair and power kit for your equipment, and a support network of at least three nearby people who know how to help.",
+  "sections": [
+   {
+    "h": "A bag you can actually take with you",
+    "p": [
+     "The standard go-bag assumes you can carry a backpack. If you can't, use a lighter bag that hangs on the wheelchair or a small wheeled bag, and agree in advance who carries the rest.",
+     "The Christopher & Dana Reeve Foundation recommends keeping essential medications, clothing and adaptive equipment ready to grab."
+    ]
+   },
+   {
+    "h": "Equipment: repair and power",
+    "p": [
+     "The Canadian Red Cross suggests a tire patch kit, a spare inner tube and heavy gloves for glass and debris for wheelchair users, and a spare battery for a power wheelchair or scooter.",
+     "If you rely on powered equipment, know how to connect and start a backup power supply, and label your equipment with your name, contact details and operating instructions."
+    ]
+   },
+   {
+    "h": "Your support network",
+    "p": [
+     "Ask at least three nearby people to check on you in an emergency and give one of them a house key (Reeve Foundation).",
+     "Teach helpers how to operate your equipment and practise together. Keep written copies of prescriptions and emergency contacts in case your phone dies (Canadian Red Cross)."
+    ]
+   },
+   {
+    "h": "Getting out",
+    "p": [
+     "Keep your evacuation route clear of furniture. In a block of flats, agree with the building manager on a way out if the lift doesn't work.",
+     "When evacuation is advised, leave early, and ask your municipality which shelters are wheelchair accessible."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What if an older person can't carry a 10 kg go-bag?",
+    "a": "Split it: a light personal bag (documents, medication, phone charger, glasses) plus the rest carried by a family member or neighbour agreed in advance, or a small wheeled bag."
+   },
+   {
+    "q": "What should a wheelchair user add to an emergency kit?",
+    "a": "A tire patch kit, spare inner tube and heavy gloves; for a power wheelchair a charger and spare battery; plus daily medical supplies and written operating instructions for your equipment."
+   }
+  ]
+ },
+ "pl": {
+  "slug": "plecak-ewakuacyjny-niepelnosprawnosc-seniorzy",
+  "title": "Plecak ewakuacyjny dla osoby na wózku, z niepełnosprawnością i seniora",
+  "description": "Jak przygotować torbę ewakuacyjną i plan, gdy poruszasz się na wózku, nie możesz nosić ciężkiego plecaka albo zależysz od sprzętu medycznego – na podstawie zaleceń Czerwonego Krzyża.",
+  "summary": "Jeśli 10-kilogramowy plecak jest nierealny, zaplanuj lżejszą torbę, zestaw naprawczy i zasilanie do swojego sprzętu oraz sieć wsparcia: co najmniej trzy osoby w pobliżu, które wiedzą, jak pomóc.",
+  "sections": [
+   {
+    "h": "Torba, którą naprawdę zabierzesz",
+    "p": [
+     "Standardowy plecak ewakuacyjny zakłada, że możesz go nieść. Jeśli nie, użyj lżejszej torby zawieszanej na wózku albo małej torby na kółkach i ustal wcześniej, kto niesie resztę.",
+     "Fundacja Christophera i Dany Reeve’ów zaleca, by niezbędne leki, ubrania i sprzęt pomocniczy były gotowe do zabrania."
+    ]
+   },
+   {
+    "h": "Sprzęt: naprawa i zasilanie",
+    "p": [
+     "Kanadyjski Czerwony Krzyż proponuje dla osób na wózku łatki do opon, zapasową dętkę i grube rękawice chroniące przed szkłem i gruzem, a dla wózka elektrycznego lub skutera – zapasowy akumulator.",
+     "Jeśli korzystasz ze sprzętu zasilanego prądem, naucz się podłączać zasilanie awaryjne i oznacz sprzęt swoim imieniem, kontaktem i instrukcją obsługi."
+    ]
+   },
+   {
+    "h": "Twoja sieć wsparcia",
+    "p": [
+     "Poproś co najmniej trzy osoby z sąsiedztwa, by sprawdziły, co u Ciebie w sytuacji kryzysowej, i daj jednej z nich klucz do domu (Fundacja Reeve’ów).",
+     "Pokaż pomocnikom, jak obsługiwać Twój sprzęt, i przećwiczcie to razem. Miej spisane recepty i numery alarmowe na papierze, na wypadek gdyby telefon się rozładował (Kanadyjski Czerwony Krzyż)."
+    ]
+   },
+   {
+    "h": "Wyjście z domu",
+    "p": [
+     "Utrzymuj drogę ewakuacji wolną od mebli. W bloku ustal z zarządcą, jak wyjść, gdy winda nie działa.",
+     "Gdy zalecana jest ewakuacja, wyjdź wcześniej i zapytaj w gminie, które miejsca schronienia są dostępne dla wózków."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Co, jeśli starsza osoba nie uniesie 10-kilogramowego plecaka?",
+    "a": "Podziel go: lekka torba osobista (dokumenty, leki, ładowarka, okulary), a resztę niesie wcześniej umówiony członek rodziny lub sąsiad – albo mała torba na kółkach."
+   },
+   {
+    "q": "Co osoba na wózku powinna dodać do zestawu awaryjnego?",
+    "a": "Łatki do opon, zapasową dętkę i grube rękawice; przy wózku elektrycznym ładowarkę i zapasowy akumulator; do tego codzienne materiały medyczne i spisaną instrukcję obsługi sprzętu."
+   }
+  ]
+ }
+}

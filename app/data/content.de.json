@@ -147,6 +147,15 @@
           "Plant im Voraus für ältere, kranke oder pflegebedürftige Familienmitglieder und Nachbarn",
           "Haltet deren Bedürfnisse (Medikamente, Hilfsmittel, Mobilität) an einem für die ganze Familie zugänglichen Ort schriftlich fest"
         ]
+      },
+      {
+        "title": "6. Wenn jemand im Haushalt Hilfe braucht",
+        "points": [
+          "Bitten Sie mindestens drei Menschen in der Nähe, im Notfall nach Ihnen zu sehen, und geben Sie einem davon einen Hausschlüssel",
+          "Zeigen Sie Ihren Helfern, wie Ihre Geräte bedient werden (Rollstuhl, Beatmungsgerät, Rutschbrett), und üben Sie es gemeinsam",
+          "Halten Sie den Fluchtweg frei von Möbeln; im Mehrfamilienhaus mit der Hausverwaltung einen Ausweg klären, falls der Aufzug ausfällt",
+          "Wenn zur Evakuierung geraten wird, früh aufbrechen; bei der Gemeinde erfragen, welche Notunterkünfte rollstuhlgerecht sind"
+        ]
       }
     ]
   },
@@ -210,6 +219,15 @@
         "items": [
           "Ersatzschlüssel für Haus und Auto",
           "Der Schlüssel/das Werkzeug, um Gas oder Wasser manuell abzustellen, falls nötig"
+        ]
+      },
+      {
+        "title": "Behinderung, Rollstuhl, ältere Menschen",
+        "items": [
+          "Wenn ein schwerer Rucksack nicht getragen werden kann: eine leichtere Tasche für den Rollstuhl oder eine kleine Rolltasche – und absprechen, wer den Rest trägt",
+          "Rollstuhl-Reparaturset: Reifenflickzeug, Ersatzschlauch, feste Handschuhe gegen Glas und Trümmer",
+          "Elektrorollstuhl, Scooter oder medizinisches Gerät: Ladegerät, Ersatzakku oder Powerbank – und wissen, wie man auf Notstrom umschaltet",
+          "Tägliche medizinische Hilfsmittel (z. B. Katheter, Handschuhe, Feuchttücher) und eine schriftliche Bedienungsanleitung für Ihre Geräte, mit Name und Telefonnummer beschriftet"
         ]
       }
     ]
@@ -276,7 +294,9 @@
       "Schweden – Myndigheten för samhällsskydd och beredskap (MSB), Broschüre „Om krisen eller kriget kommer“ (2024)",
       "Deutschland – Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), „Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen“",
       "Polen – Regierungszentrum für Sicherheit (RCB), Empfehlungen zum 72-Stunden-Vorrat",
-      "Niederlande und Schweden – Empfehlungen der Zentralbanken zur Bargeldreserve im Haushalt"
+      "Niederlande und Schweden – Empfehlungen der Zentralbanken zur Bargeldreserve im Haushalt",
+      "Kanadisches Rotes Kreuz – Katastrophenvorsorge für Menschen mit Behinderungen",
+      "Christopher & Dana Reeve Foundation – Notfallvorsorge-Broschüre für Menschen mit Lähmung"
     ],
     "disclaimer": "Dieser Planer dient allgemeinen, informativen Zwecken. Bei Themen wie Kaliumiodid-Tabletten, Evakuierungsanordnungen oder medizinischer Hilfe immer den aktuellen Anweisungen der örtlichen Behörden und Rettungsdienste folgen."
   }

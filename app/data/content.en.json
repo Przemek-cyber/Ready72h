@@ -147,6 +147,15 @@
           "Plan ahead for elderly, ill, or disabled family members and neighbors",
           "Write down their needs (medication, equipment, mobility) somewhere the whole family can access"
         ]
+      },
+      {
+        "title": "6. If someone in the household needs help",
+        "points": [
+          "Ask at least three nearby people to check on you in an emergency, and give one of them a house key",
+          "Show your helpers how to operate your equipment (wheelchair, ventilator, transfer board) and practise together",
+          "Keep the evacuation route free of furniture; in a block of flats agree with the building manager on a way out if the lift doesn't work",
+          "When evacuation is advised, leave early; ask your municipality which shelters are wheelchair accessible"
+        ]
       }
     ]
   },
@@ -210,6 +219,15 @@
         "items": [
           "Spare house and car keys",
           "The key/tool to manually shut off gas or water, if needed"
+        ]
+      },
+      {
+        "title": "Mobility, disability and older adults",
+        "items": [
+          "If carrying a heavy backpack isn't possible: a lighter bag that hangs on the wheelchair or a small wheeled bag — and agree who carries the rest",
+          "Wheelchair repair kit: tire patch kit, spare inner tube, heavy gloves for glass and debris",
+          "Power wheelchair, scooter or medical device: charger, spare battery or power pack — and know how to switch to backup power",
+          "Daily medical supplies (e.g. catheters, gloves, wipes) and written operating instructions for your equipment, labelled with your name and phone number"
         ]
       }
     ]
@@ -276,7 +294,9 @@
       "Sweden — Myndigheten för samhällsskydd och beredskap (MSB), “If Crisis or War Comes” brochure (2024)",
       "Germany — Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), “Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen”",
       "Poland — Government Centre for Security (RCB), 72-hour supply recommendations",
-      "The Netherlands and Sweden — central bank recommendations on household cash reserves"
+      "The Netherlands and Sweden — central bank recommendations on household cash reserves",
+      "Canadian Red Cross — Disaster planning when living with disabilities",
+      "Christopher & Dana Reeve Foundation — Emergency preparedness booklet for people with paralysis"
     ],
     "disclaimer": "This planner is for general, educational purposes. For topics such as potassium iodide tablets, evacuation orders, or medical assistance, always follow current guidance from your local authorities and emergency services."
   }

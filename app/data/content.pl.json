@@ -147,6 +147,15 @@
           "Zaplanujcie z wyprzedzeniem pomoc dla starszych, chorych lub niepełnosprawnych członków rodziny i sąsiadów",
           "Zapiszcie ich potrzeby (leki, sprzęt, mobilność) w jednym miejscu dostępnym całej rodzinie"
         ]
+      },
+      {
+        "title": "6. Jeśli ktoś w domu potrzebuje pomocy",
+        "points": [
+          "Poproś co najmniej trzy osoby z sąsiedztwa, by sprawdziły, co u Ciebie w sytuacji kryzysowej, i daj jednej z nich klucz do domu",
+          "Pokaż pomocnikom, jak obsługiwać Twój sprzęt (wózek, respirator, deska do przesiadania), i przećwiczcie to razem",
+          "Utrzymuj drogę ewakuacji wolną od mebli; w bloku ustal z zarządcą, jak wyjść, gdy winda nie działa",
+          "Gdy zalecana jest ewakuacja, wyjdź wcześniej; zapytaj w gminie, które miejsca schronienia są dostępne dla wózków"
+        ]
       }
     ]
   },
@@ -210,6 +219,15 @@
         "items": [
           "Zapasowe klucze do domu i samochodu",
           "Kluczyk do skrzynki gazowej/wodnej, jeśli trzeba ręcznie odciąć media"
+        ]
+      },
+      {
+        "title": "Niepełnosprawność, wózek, osoby starsze",
+        "items": [
+          "Jeśli noszenie ciężkiego plecaka nie wchodzi w grę: lżejsza torba zawieszana na wózku albo mała torba na kółkach – i ustalenie, kto niesie resztę",
+          "Zestaw naprawczy do wózka: łatki do opon, zapasowa dętka, grube rękawice chroniące przed szkłem i gruzem",
+          "Wózek elektryczny, skuter lub urządzenie medyczne: ładowarka, zapasowy akumulator lub powerbank – i wiedza, jak przełączyć się na zasilanie awaryjne",
+          "Codzienne materiały medyczne (np. cewniki, rękawiczki, chusteczki) i spisana instrukcja obsługi sprzętu, oznaczona imieniem i numerem telefonu"
         ]
       }
     ]
@@ -276,7 +294,9 @@
       "Szwecja – Myndigheten för samhällsskydd och beredskap (MSB), broszura „Om krisen eller kriget kommer” (2024)",
       "Niemcy – Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK), „Ratgeber für Notfallvorsorge und richtiges Handeln in Notsituationen”",
       "Polska – Rządowe Centrum Bezpieczeństwa (RCB), zalecenia dot. zapasów na 72 godziny",
-      "Holandia i Szwecja – zalecenia banków centralnych dot. zapasu gotówki domowej"
+      "Holandia i Szwecja – zalecenia banków centralnych dot. zapasu gotówki domowej",
+      "Kanadyjski Czerwony Krzyż – planowanie na wypadek katastrof dla osób z niepełnosprawnościami",
+      "Christopher & Dana Reeve Foundation – poradnik przygotowania na sytuacje kryzysowe dla osób z paraliżem"
     ],
     "disclaimer": "Ten planer ma charakter poglądowy i edukacyjny. W kwestiach takich jak tabletki jodku potasu, ewakuacja czy pomoc medyczna zawsze kieruj się aktualnymi komunikatami lokalnych władz i służb."
   }
