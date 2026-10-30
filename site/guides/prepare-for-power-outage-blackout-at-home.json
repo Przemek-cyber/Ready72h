@@ -1,0 +1,124 @@
+{
+ "slug": "prepare-for-power-outage-blackout-at-home",
+ "tool": null,
+ "sources": [
+  {
+   "title": "gov.pl – Poradnik bezpieczeństwa: Długotrwały brak prądu (blackout)",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout"
+  },
+  {
+   "title": "BBK – Vorsorge und Handeln bei Stromausfall",
+   "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/Stromausfall/stromausfall_node.html"
+  },
+  {
+   "title": "BBK – Materialien zu Stromausfall",
+   "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Sicherheit-durch-Vorsorge/Materialien-Stromausfall/materialien-stromausfall_node.html"
+  },
+  {
+   "title": "Ready.gov – Power Outages",
+   "url": "https://www.ready.gov/power-outages"
+  }
+ ],
+ "en": {
+  "slug": "prepare-for-power-outage-blackout-at-home",
+  "title": "How to prepare for a power outage (blackout) at home",
+  "description": "Calm, practical steps to prepare your home for a power outage: food, water, light, phone charging, cash, warmth and safe habits, based on gov.pl, BBK and Ready.gov.",
+  "summary": "Prepare for a power outage with food that needs no cooking, water, charged power banks, flashlights, a battery or crank radio and some cash. Poland's government safety guide suggests home supplies for at least three days; BBK and Ready.gov add advice on warmth and safe habits.",
+  "sections": [
+   {
+    "h": "Why it is worth preparing",
+    "p": [
+     "Ready.gov describes a power outage as electrical power going out unexpectedly. Germany's BBK says that a large-scale, long-lasting outage is unlikely but cannot be ruled out, and names extreme weather, errors during construction work and cyberattacks as possible causes.",
+     "Simple preparations cost little and help whether an outage lasts an evening or longer."
+    ]
+   },
+   {
+    "h": "What to have ready at home",
+    "p": [
+     "Food and water: Poland's official government safety guide (gov.pl, Poradnik bezpieczeństwa) recommends ready-to-eat food such as canned food, rusks and bars, and water at a minimum of 3 litres per person per day. It says home supplies should cover at least 3 days.",
+     "Power and information: the same guide advises charging power banks and switching your phone to battery-saving mode. It suggests flashlights with spare batteries and a battery or hand-crank radio. BBK also advises a battery or crank radio, so you can follow official announcements during a long outage.",
+     "Cash: the gov.pl guide suggests keeping some cash in various denominations."
+    ]
+   },
+   {
+    "h": "Staying warm during an outage",
+    "p": [
+     "BBK says warm clothing and blankets can replace heating for a while. It suggests choosing one room to stay in and keeping its doors closed so heat does not escape, while still ventilating regularly. The gov.pl guide likewise advises gathering household members in one room.",
+     "The gov.pl guide advises opening the fridge and freezer as little as possible and disconnecting electrical devices from the power supply. Ready.gov says a closed refrigerator keeps food cold for about four hours and a full freezer for about 48 hours."
+    ]
+   },
+   {
+    "h": "Heating and cooking safely",
+    "p": [
+     "Ready.gov says never to use a gas stove or oven to heat your home, because it raises the risk of carbon monoxide poisoning. It says generators, camp stoves and charcoal grills belong outdoors, at least 20 feet (about 6 metres) from windows. It also recommends working carbon monoxide detectors on every level of the home.",
+     "If you want an alternative heat source, BBK advises getting advice from professionals. For gas-powered heaters it stresses checking that safety features such as oxygen-depletion and ignition safeguards are present, and it says a carbon monoxide detector adds safety."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "How many days of supplies should I plan for?",
+    "a": "The Polish government safety guide (gov.pl) says home supplies should cover at least 3 days. Start with what you can manage and build up gradually."
+   },
+   {
+    "q": "Why keep cash for a power outage?",
+    "a": "The gov.pl safety guide recommends keeping some cash in various denominations as part of your outage preparations."
+   },
+   {
+    "q": "Is it safe to heat my home with a gas stove or run a generator indoors?",
+    "a": "No. Ready.gov says not to use a gas stove or oven to heat your home because of carbon monoxide poisoning risk, and to use generators only outdoors and away from windows."
+   }
+  ]
+ },
+ "pl": {
+  "slug": "jak-przygotowac-sie-na-brak-pradu-blackout-w-domu",
+  "title": "Jak przygotować dom na brak prądu (blackout)?",
+  "description": "Spokojny, praktyczny poradnik: jedzenie, woda, światło, ładowanie telefonu, gotówka, ciepło i bezpieczne nawyki na wypadek braku prądu – wg gov.pl, BBK i Ready.gov.",
+  "summary": "Na brak prądu przygotuj jedzenie niewymagające gotowania, wodę, naładowane powerbanki, latarki, radio na baterie lub korbkę i trochę gotówki. Rządowy poradnik bezpieczeństwa zaleca zapasy domowe na minimum 3 dni, a BBK i Ready.gov dodają wskazówki o cieple i bezpieczeństwie.",
+  "sections": [
+   {
+    "h": "Dlaczego warto się przygotować",
+    "p": [
+     "Ready.gov opisuje przerwę w dostawie prądu jako nagłą utratę zasilania. Niemiecki BBK pisze, że rozległy i długotrwały brak prądu jest mało prawdopodobny, ale nie można go wykluczyć. Jako możliwe przyczyny wymienia ekstremalną pogodę, błędy podczas prac budowlanych i cyberataki.",
+     "Proste przygotowania niewiele kosztują i pomagają zarówno przy awarii na kilka godzin, jak i dłuższej."
+    ]
+   },
+   {
+    "h": "Co mieć w domu",
+    "p": [
+     "Jedzenie i woda: oficjalny rządowy Poradnik bezpieczeństwa (gov.pl) zaleca żywność gotową do spożycia, np. konserwy, suchary i batony, oraz wodę – minimum 3 litry dziennie na osobę. Zapasy domowe mają wystarczyć na minimum 3 dni.",
+     "Zasilanie i informacja: ten sam poradnik radzi naładować powerbanki i włączyć w telefonie tryb oszczędzania energii. Sugeruje latarki z zapasem baterii oraz radio na baterie lub korbkę. BBK także zaleca radio na baterie lub korbkę, aby przy długiej awarii śledzić komunikaty władz.",
+     "Gotówka: poradnik gov.pl zaleca mieć pod ręką zapas gotówki w różnych nominałach."
+    ]
+   },
+   {
+    "h": "Jak zachować ciepło",
+    "p": [
+     "BBK podaje, że ciepłe ubrania i koce mogą przez jakiś czas zastąpić ogrzewanie. Radzi wybrać jedno pomieszczenie do przebywania i trzymać drzwi zamknięte, aby ciepło nie uciekało, a mimo to regularnie wietrzyć. Poradnik gov.pl również podpowiada, by zebrać domowników w jednym pokoju.",
+     "Poradnik gov.pl zaleca otwierać lodówkę i zamrażarkę jak najrzadziej oraz odłączyć urządzenia elektryczne od zasilania. Ready.gov podaje, że zamknięta lodówka utrzymuje niską temperaturę przez około cztery godziny, a pełna zamrażarka przez około 48 godzin."
+    ]
+   },
+   {
+    "h": "Bezpieczne ogrzewanie i gotowanie",
+    "p": [
+     "Ready.gov pisze, by nigdy nie ogrzewać domu kuchenką gazową ani piekarnikiem, bo rośnie ryzyko zatrucia tlenkiem węgla. Agregaty, kuchenki turystyczne i grille węglowe należy używać na zewnątrz, co najmniej 20 stóp (ok. 6 metrów) od okien. Zaleca też sprawne czujniki tlenku węgla na każdej kondygnacji domu.",
+     "Jeśli chcesz mieć alternatywne źródło ciepła, BBK radzi skorzystać z porady specjalistów. W przypadku urządzeń gazowych podkreśla, by upewnić się, że mają zabezpieczenia, np. przed brakiem tlenu i zapłonem, a czujnik tlenku węgla zwiększa bezpieczeństwo."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Na ile dni robić zapasy na wypadek braku prądu?",
+    "a": "Rządowy Poradnik bezpieczeństwa (gov.pl) mówi, że zapasy domowe powinny wystarczyć na minimum 3 dni. Zacznij od tego, co jesteś w stanie zgromadzić, i stopniowo uzupełniaj."
+   },
+   {
+    "q": "Po co gotówka na wypadek braku prądu?",
+    "a": "Poradnik bezpieczeństwa na gov.pl zaleca, by w ramach przygotowań mieć zapas gotówki w różnych nominałach."
+   },
+   {
+    "q": "Czy można ogrzewać mieszkanie kuchenką gazową lub włączyć agregat w domu?",
+    "a": "Nie. Ready.gov mówi, by nie ogrzewać domu kuchenką gazową ani piekarnikiem ze względu na ryzyko zatrucia tlenkiem węgla, a agregatu używać tylko na zewnątrz, z dala od okien."
+   }
+  ]
+ }
+}
