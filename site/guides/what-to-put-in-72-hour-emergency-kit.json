@@ -1,0 +1,108 @@
+{
+ "slug": "what-to-put-in-72-hour-emergency-kit",
+ "tool": null,
+ "sources": [
+  {
+   "title": "RCB (gov.pl) – Poradnik na czas kryzysu i wojny",
+   "url": "https://www.gov.pl/web/rcb/poradnik-na-czas-kryzysu-i-wojny2"
+  },
+  {
+   "title": "BBK – Notgepäck (Wenn es schnell gehen muss)",
+   "url": "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Vorsorge/So-koennen-Sie-sich-vorbereiten/Notgepaeck/notgepaeck_node.html"
+  },
+  {
+   "title": "Ready.gov – Build A Kit",
+   "url": "https://www.ready.gov/kit"
+  },
+  {
+   "title": "FEMA – How to build a kit for emergencies",
+   "url": "https://www.fema.gov/press-release/20250602/how-build-kit-emergencies"
+  }
+ ],
+ "en": {
+  "slug": "what-to-put-in-72-hour-emergency-kit",
+  "title": "What should you put in a 72-hour emergency kit?",
+  "description": "A calm overview of what official guidance (RCB, BBK, Ready.gov) says belongs in a 72-hour kit: water, food, light, radio, documents, cash, medicines, clothing.",
+  "summary": "A 72-hour kit covers the basics for a few days without outside help: water, ready-to-eat food, light, a radio, a charged phone power source, documents, cash, medicines, first aid, hygiene items and clothing. Official lists from Poland's RCB, Germany's BBK and Ready.gov overlap closely.",
+  "sections": [
+   {
+    "h": "The core items official lists agree on",
+    "p": [
+     "Ready.gov says being prepared means having your own food, water and other supplies for at least 72 hours (via FEMA). Its basic list includes water, non-perishable food, cash, a battery-powered or hand-crank radio, a flashlight with extra batteries, a non-electric can opener, a first aid kit, a whistle, prescription medications and personal hygiene items. It also lists a dust mask, moist wipes, garbage bags and plastic ties. For water, FEMA's guidance gives one gallon (about 3.8 litres) per person per day.",
+     "Poland's RCB describes a grab-and-go backpack that should hold a battery radio with spare batteries, a flashlight, essential documents, matches or a lighter, a map of local roads, a can opener, meals for 2 days, a notebook and pencil, cutlery and a jacket. On the RCB page, the short version is documents, medicines, water, several days of food, a flashlight and a power bank."
+    ]
+   },
+   {
+    "h": "A grab-and-go bag versus supplies at home",
+    "p": [
+     "Germany's BBK treats the two separately. Its Notgepäck (emergency bag) is meant to help you cope for the first days away from home. Its basic rule is to take no more for each family member than fits in one backpack. A backpack is easier than a suitcase because both hands stay free.",
+     "BBK's backpack list includes personal medicines, first aid supplies, a battery radio with spare batteries, food for 2 days, a water bottle, eating utensils, a can opener and a small pocket tool, a flashlight, a sleeping bag or blanket, clothing for a few days with weather protection, a head covering, work gloves and hygiene items. It also lists an FFP2 mask. For the home stock, BBK recommends that households aim to manage on their own for 10 days, and says that even a 3-day supply already helps a lot."
+    ]
+   },
+   {
+    "h": "Tailor it to your household and keep it ready",
+    "p": [
+     "Ready.gov suggests thinking about your family's unique needs once the basic items are in place, for example supplies for pets or seniors. Its checklist also mentions infant formula and diapers, glasses, copies of important documents in a waterproof container, a sleeping bag or warm blanket for each person, and a full change of clothes with sturdy shoes.",
+     "Ready.gov advises keeping the kit in a designated place at home, making sure every family member knows where it is, and considering a smaller kit for your car. Check the contents from time to time, especially food, batteries and medicines. Ask a doctor or pharmacist about anything medical, such as how much of a regular medicine to set aside."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "How much water should a 72-hour kit include?",
+    "a": "It depends on the guidance. Ready.gov and FEMA give one gallon (about 3.8 litres) per person per day. Germany's BBK recommends a water bottle in the backpack and, for the home stock, 2 litres per person per day (BBK checklist). Water is heavy, so a bag you carry usually holds a bottle, and the larger supply stays at home."
+   },
+   {
+    "q": "Is a 72-hour kit the same as a home emergency stock?",
+    "a": "Not quite. A 72-hour kit or backpack is a portable set for leaving home quickly. A home stock is larger and stays in a cupboard. BBK recommends that households aim for 10 days of self-sufficiency at home, and says that at least 3 days is a good start."
+   },
+   {
+    "q": "Where should I keep the kit?",
+    "a": "Ready.gov advises a designated spot at home that every family member knows. It also suggests a smaller kit in the car in case you are stranded. Keep it somewhere you can reach quickly, for example near the front door or in an easily accessible cupboard."
+   }
+  ]
+ },
+ "pl": {
+  "slug": "co-spakowac-do-zestawu-awaryjnego-72h",
+  "title": "Co powinno być w zestawie awaryjnym na 72 godziny?",
+  "description": "Spokojny przegląd tego, co według RCB, BBK i Ready.gov powinno trafić do zestawu na 72 godziny: woda, jedzenie, światło, radio, dokumenty, gotówka, leki.",
+  "summary": "Zestaw na 72 godziny ma pokryć podstawowe potrzeby przez kilka dni bez pomocy z zewnątrz: woda, jedzenie gotowe do spożycia, światło, radio, powerbank, dokumenty, gotówka, leki, apteczka, higiena i ubranie. Oficjalne listy RCB, niemieckiego BBK i Ready.gov w dużej mierze się pokrywają.",
+  "sections": [
+   {
+    "h": "Rzeczy, które powtarzają się na oficjalnych listach",
+    "p": [
+     "Ready.gov podaje (za FEMA), że przygotowanie oznacza własne jedzenie, wodę i inne zapasy na co najmniej 72 godziny. Podstawowa lista obejmuje wodę, żywność o długim terminie przydatności, gotówkę, radio na baterie lub korbkę, latarkę z zapasowymi bateriami, ręczny otwieracz do puszek, apteczkę, gwizdek, leki na receptę i środki higieny osobistej. Są na niej także maska przeciwpyłowa, chusteczki nawilżane, worki na śmieci i opaski zaciskowe. Co do wody, wytyczne FEMA podają jeden galon (ok. 3,8 litra) na osobę na dobę.",
+     "Polskie RCB opisuje plecak ewakuacyjny, w którym powinny się znaleźć: radio na baterie z zapasowymi bateriami, latarka, najważniejsze dokumenty, zapalniczka lub zapałki, mapa lokalnych dróg, otwieracz do puszek, posiłki na 2 dni, notes i ołówek, sztućce oraz kurtka. W skrócie RCB wymienia dokumenty, leki, wodę, jedzenie na kilka dni, latarkę i powerbank."
+    ]
+   },
+   {
+    "h": "Plecak na szybkie wyjście a zapasy w domu",
+    "p": [
+     "Niemiecki BBK rozróżnia te dwie rzeczy. Jego Notgepäck (bagaż awaryjny) ma pomóc przetrwać pierwsze dni poza domem. Podstawowa zasada BBK brzmi: na każdego członka rodziny weź nie więcej, niż mieści się w jednym plecaku. Plecak jest wygodniejszy niż walizka, bo zostawia wolne ręce.",
+     "Na liście BBK dla plecaka są: leki osobiste, materiały pierwszej pomocy, radio na baterie z zapasowymi bateriami, jedzenie na 2 dni, butelka na wodę, naczynia i sztućce, otwieracz do puszek i małe narzędzie kieszonkowe, latarka, śpiwór lub koc, ubranie na kilka dni z ochroną przed pogodą, nakrycie głowy, rękawice robocze i artykuły higieniczne. Znajduje się tam także maska FFP2. W przypadku zapasów domowych BBK zaleca, by gospodarstwa dążyły do 10 dni samodzielności. Dodaje też, że już zapas na co najmniej 3 dni bardzo pomaga."
+    ]
+   },
+   {
+    "h": "Dopasuj zestaw do domowników i trzymaj go w gotowości",
+    "p": [
+     "Ready.gov radzi, by po skompletowaniu podstaw pomyśleć o szczególnych potrzebach rodziny, na przykład o zwierzętach lub seniorach. Na jego liście są też m.in. mleko modyfikowane i pieluchy, okulary, kopie ważnych dokumentów w wodoodpornym pojemniku, śpiwór lub ciepły koc dla każdej osoby oraz komplet ubrań na zmianę z mocnym obuwiem.",
+     "Ready.gov zaleca trzymanie zestawu w ustalonym miejscu w domu i dopilnowanie, żeby każdy domownik wiedział, gdzie on jest. Warto też rozważyć mniejszy zestaw w samochodzie. Co jakiś czas sprawdzaj zawartość, zwłaszcza jedzenie, baterie i leki. W sprawach medycznych, na przykład ilości stałych leków do odłożenia, zapytaj lekarza lub farmaceutę."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Ile wody spakować do zestawu na 72 godziny?",
+    "a": "To zależy od źródła. Ready.gov i FEMA podają jeden galon (ok. 3,8 litra) na osobę na dobę. Niemiecki BBK zaleca butelkę na wodę w plecaku, a dla zapasu domowego 2 litry na osobę na dobę (lista BBK). Woda jest ciężka, więc w plecaku zwykle mieści się butelka, a większy zapas zostaje w domu."
+   },
+   {
+    "q": "Czy zestaw na 72 godziny to to samo co domowy zapas awaryjny?",
+    "a": "Nie do końca. Zestaw lub plecak na 72 godziny jest przenośny i służy do szybkiego opuszczenia domu. Zapas domowy jest większy i stoi w szafie. BBK zaleca, by gospodarstwa dążyły do 10 dni samodzielności w domu, a za dobry początek uznaje co najmniej 3 dni."
+   },
+   {
+    "q": "Gdzie trzymać zestaw awaryjny?",
+    "a": "Ready.gov radzi wyznaczone miejsce w domu, które zna każdy domownik. Sugeruje też mniejszy zestaw w samochodzie na wypadek utknięcia w drodze. Najlepiej postawić go tam, gdzie łatwo go chwycić, na przykład przy drzwiach wejściowych lub w łatwo dostępnej szafie."
+   }
+  ]
+ }
+}
