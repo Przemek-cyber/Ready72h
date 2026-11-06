@@ -1,0 +1,108 @@
+{
+ "slug": "family-emergency-communication-plan",
+ "tool": null,
+ "sources": [
+  {
+   "title": "Ready.gov – Make a Plan",
+   "url": "https://www.ready.gov/plan"
+  },
+  {
+   "title": "American Red Cross – Be Prepared. Get Connected. Take Action.",
+   "url": "https://www.redcross.org/content/dam/redcross/local/NCCR/148816preparednessguide_web.pdf"
+  },
+  {
+   "title": "American Red Cross – Disasters: Plan on How to Get in Touch with Loved Ones",
+   "url": "https://www.redcross.org/about-us/news-and-events/news/2021/disasters-plan-on-how-to-get-in-touch-with-loved-ones.html"
+  },
+  {
+   "title": "RCB – Bądź gotowy! Poradnik na czas kryzysu i wojny (copy of the guide)",
+   "url": "https://perkunklub.pl/wp-content/uploads/2022/04/poradnik-RCB-badz-gotowy.pdf"
+  }
+ ],
+ "en": {
+  "slug": "family-emergency-communication-plan",
+  "title": "Family emergency communication plan: what to agree in advance",
+  "description": "What to agree with your household before an emergency: meeting places, an out-of-area contact, written numbers and when to text instead of call.",
+  "summary": "Agree on two meeting places, one out-of-area contact person and a written list of numbers that everyone carries. Then practise it once, so nobody has to improvise when phone lines are busy.",
+  "sections": [
+   {
+    "h": "Agree on where to meet and who to contact",
+    "p": [
+     "Ready.gov points out that your family may not be together when something happens. It suggests a family meeting place that is familiar and easy to find. The Red Cross recommends two different kinds of places: one near your home, for a local emergency such as a fire, and one outside your neighbourhood, in case the whole area is affected. Poland's RCB guide likewise advises agreeing a contact point where you will meet if you are accidentally separated.",
+     "The Red Cross also suggests choosing one out-of-area contact. Local phone lines tend to be overloaded after an emergency, so a person elsewhere can be easier to reach and can act as a central point. Pick someone who lives far enough away not to be affected by the same event. Everyone then reports their status to that person."
+    ]
+   },
+   {
+    "h": "Write it down and share it",
+    "p": [
+     "The Red Cross recommends that everyone carries emergency contact information both on paper and saved in their phone. Each person should also keep a copy in their emergency kit. Ready.gov's plan form covers household members' names and contacts, meeting places and important medical information. Its card also has space for school, childcare, caregiver and workplace emergency plans, so it is worth finding out where children would be taken or picked up.",
+     "Remember relatives who live elsewhere for part of the year. The Red Cross says your plan should include people such as students away at school or family members who travel often."
+    ]
+   },
+   {
+    "h": "Text rather than call, and practise",
+    "p": [
+     "RCB advises assuming that phone communication may be limited in a crisis. It suggests cutting down on calls to friends and family, because overloaded lines can get in the way of the emergency services. If you want to tell people you are safe, it recommends sending an SMS. In Poland, call 112 to request help.",
+     "The Red Cross suggests practising: walk your escape routes, call your out-of-area contact and go to your meeting place. A short run-through shows up gaps, such as a missing number or a place the children cannot find. Review the plan when anything changes."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Why choose a contact person outside my area?",
+    "a": "The Red Cross notes that local phone lines tend to be overloaded after an emergency. Someone far enough away to be unaffected is often easier to reach, and family members can report to them."
+   },
+   {
+    "q": "Should I rely on my phone to store the numbers?",
+    "a": "No. The Red Cross recommends carrying contact details in writing as well as on your phone. RCB also advises keeping phone numbers written on paper."
+   },
+   {
+    "q": "Should we call or text each other?",
+    "a": "RCB recommends limiting calls, because busy lines can hinder the emergency services, and sending an SMS to say you are safe. Call 112 only when you need help."
+   }
+  ]
+ },
+ "pl": {
+  "slug": "rodzinny-plan-komunikacji-w-kryzysie",
+  "title": "Rodzinny plan komunikacji w kryzysie: co ustalić z wyprzedzeniem",
+  "description": "Co ustalić w domu przed kryzysem: miejsca spotkania, osobę kontaktową spoza okolicy, spisane numery i zasadę „SMS zamiast rozmowy”.",
+  "summary": "Ustalcie dwa miejsca spotkania, jedną osobę kontaktową spoza okolicy i spisaną listę numerów, którą każdy ma przy sobie. Przećwiczcie to raz, żeby nikt nie musiał improwizować, gdy sieć będzie przeciążona.",
+  "sections": [
+   {
+    "h": "Ustalcie, gdzie się spotkacie i z kim się kontaktować",
+    "p": [
+     "Ready.gov zwraca uwagę, że rodzina może nie być razem, gdy coś się wydarzy. Zaleca miejsce spotkania, które jest znane i łatwe do znalezienia. Czerwony Krzyż (Red Cross) radzi wybrać dwa różne miejsca: jedno blisko domu, na wypadek lokalnego zdarzenia, np. pożaru, a drugie poza osiedlem lub dzielnicą, na wypadek gdy zagrożony jest cały obszar. Polski poradnik RCB również zaleca ustalenie miejsca kontaktowego, w którym spotkacie się po przypadkowym rozdzieleniu.",
+     "Czerwony Krzyż radzi też wybrać jedną osobę kontaktową spoza okolicy. Lokalne linie telefoniczne bywają po zdarzeniu przeciążone, więc osobę z innego regionu łatwiej złapać, a ona może pełnić rolę centralnego punktu. Wybierzcie kogoś, kto mieszka na tyle daleko, by nie dotknęło go to samo zdarzenie. Każdy zgłasza wtedy swój stan tej osobie."
+    ]
+   },
+   {
+    "h": "Spiszcie plan i podzielcie się nim",
+    "p": [
+     "Czerwony Krzyż zaleca, by każdy nosił dane kontaktowe zarówno na papierze, jak i zapisane w telefonie. Każdy powinien też mieć ich kopię w swoim zestawie awaryjnym. Formularz Ready.gov obejmuje imiona i kontakty domowników, miejsca spotkań oraz ważne informacje medyczne. Jego karta ma też miejsce na plany awaryjne szkoły, opieki nad dziećmi, opiekunów i miejsca pracy, więc warto dowiedzieć się, dokąd trafią dzieci i jak można je odebrać.",
+     "Pamiętajcie o bliskich, którzy część roku mieszkają gdzie indziej. Czerwony Krzyż zaznacza, że plan powinien uwzględniać na przykład studentów mieszkających poza domem i osoby często podróżujące."
+    ]
+   },
+   {
+    "h": "SMS zamiast rozmowy i ćwiczenie planu",
+    "p": [
+     "RCB radzi zakładać, że łączność telefoniczna w czasie kryzysu może być ograniczona. Zaleca ograniczyć telefony do rodziny i znajomych, bo przeciążone linie mogą utrudniać pracę służb ratunkowych. Żeby przekazać, że jesteście bezpieczni, RCB zaleca wysłać SMS. Po pomoc w Polsce dzwoni się pod numer 112.",
+     "Czerwony Krzyż proponuje przećwiczyć plan: przejść trasami wyjścia z domu, zadzwonić do osoby kontaktowej i dojść do miejsca spotkania. Krótkie ćwiczenie pokaże braki, np. brakujący numer albo miejsce, którego dzieci nie umieją znaleźć. Gdy cokolwiek się zmieni, zaktualizujcie plan."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Po co wybierać osobę kontaktową spoza okolicy?",
+    "a": "Czerwony Krzyż zwraca uwagę, że lokalne linie telefoniczne bywają po zdarzeniu przeciążone. Osobę mieszkającą wystarczająco daleko, by nie została dotknięta, często łatwiej złapać, a rodzina może jej zgłaszać swój stan."
+   },
+   {
+    "q": "Czy wystarczą numery zapisane w telefonie?",
+    "a": "Nie. Czerwony Krzyż zaleca nosić dane kontaktowe także w formie pisemnej. RCB również radzi mieć numery telefonów zapisane na papierze."
+   },
+   {
+    "q": "Dzwonić czy pisać SMS-y?",
+    "a": "RCB zaleca ograniczyć telefony, bo zajęte linie mogą utrudniać pracę służb, i wysłać SMS, by dać znać, że jesteście bezpieczni. Pod numer 112 dzwońcie tylko wtedy, gdy potrzebujecie pomocy."
+   }
+  ]
+ }
+}
