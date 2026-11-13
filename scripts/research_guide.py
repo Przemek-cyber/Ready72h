@@ -75,7 +75,9 @@ def call(messages: list, tools: list) -> dict:
 def research(topic: str, feedback: str = "", draft: dict | None = None) -> dict:
     tools = [{"type": "web_search_20250305", "name": "web_search", "max_uses": 8},
              {"name": "save_guide", "description": "Save the guide.", "input_schema": SCHEMA}]
-    ask = f"Write and save a guide on: {topic}"
+    existing = [json.loads(f.read_text())["en"]["title"] for f in GUIDES.glob("*.json")]
+    ask = (f"Write and save a guide on: {topic}\n\nGuides already published (do not repeat their content; "
+           "focus on what is NEW for this topic and link ideas only briefly): " + "; ".join(existing))
     if feedback:
         ask += ("\n\nA fact-checker rejected your previous draft. Fix EVERY problem below: remove or re-attribute any claim "
                 "that is not supported by a source in the sources list (add the source you actually read if needed). "
