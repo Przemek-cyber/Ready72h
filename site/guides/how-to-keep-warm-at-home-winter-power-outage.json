@@ -1,0 +1,134 @@
+{
+ "slug": "how-to-keep-warm-at-home-winter-power-outage",
+ "tool": null,
+ "sources": [
+  {
+   "title": "Poradnik bezpieczeństwa: Długotrwały brak prądu (blackout) – gov.pl (MON, MSWiA, RCB)",
+   "url": "https://www.gov.pl/web/poradnikbezpieczenstwa/dlugotrwaly-brak-pradu-blackout"
+  },
+  {
+   "title": "Ready.gov – Power Outages",
+   "url": "https://www.ready.gov/power-outages"
+  },
+  {
+   "title": "CDC – Safety Guidelines: During & After a Winter Storm",
+   "url": "https://www.cdc.gov/winter-weather/safety/stay-safe-during-after-a-winter-storm-safety.html"
+  },
+  {
+   "title": "MSB – Sju dagar: Öva så att du klarar dig utan el, vatten och värme",
+   "url": "https://rib.msb.se/filer/pdf/31427.pdf"
+  }
+ ],
+ "en": {
+  "slug": "how-to-keep-warm-at-home-winter-power-outage",
+  "title": "How to keep warm at home during a winter power outage safely",
+  "description": "Calm, practical steps to stay warm in a winter blackout: use one room, dress in layers, keep generators outdoors, avoid carbon monoxide and know hypothermia signs.",
+  "summary": "Shrink the space you need to keep warm (one room, everyone together), dress and sleep in layers, and never heat with a gas stove or oven. If you use a generator, run it only outdoors, at least 20 feet from any window, door or vent, and keep a battery-powered carbon monoxide detector indoors.",
+  "sections": [
+   {
+    "h": "Keep heat in: one room, everyone together",
+    "p": [
+     "Poland's official Poradnik bezpieczeństwa (prepared by the defence and interior ministries and RCB) says a long blackout can mean losing water, heating, internet and phone service, and that it can last several days. During an outage it advises saving heat, gathering household members in one room and unplugging electrical devices.",
+     "Sweden's MSB notes that radiators go cold quickly in a power cut and that it gets colder still after sunset. Its practical suggestions are to keep extra duvets and blankets to hand and to try sleeping one night in a sleeping bag, or under a jacket instead of a duvet, so you know what works before you need it.",
+     "The US CDC adds a few simple draught-proofing steps: avoid opening doors or windows unnecessarily, stuff towels or rags in cracks under doors, and close curtains or cover windows with blankets at night."
+    ]
+   },
+   {
+    "h": "Dress and sleep in layers",
+    "p": [
+     "The CDC recommends several layers of loose-fitting clothing. For the inner layer it suggests wool, silk or polypropylene, which hold more body heat than cotton. It also says to stay dry, because wet clothing chills the body quickly, and to take off a layer if you get too warm, since heavy sweating makes you lose more heat.",
+     "Hats, warm socks and blankets work without any power. A trial night in warm clothing or a sleeping bag, as MSB suggests, shows you what you are missing while the power is still on."
+    ]
+   },
+   {
+    "h": "Alternative heat and generators: carbon monoxide comes first",
+    "p": [
+     "Ready.gov is clear on one point: do not use a gas stove or oven to heat your home, because it raises the risk of carbon monoxide poisoning, and can also cause fires and burns. Ready.gov and the CDC both recommend carbon monoxide detectors with battery backup, so they keep working when the power is out.",
+     "The Polish guide lists a gas or oil heater, a fireplace and a generator as examples of alternative heat or power. If you use a generator, Ready.gov says to use it only outdoors and away from windows, and the CDC says it should be at least 20 feet from any window, door or vent. The CDC also says never to use generators, gas or charcoal grills, camp stoves or similar devices inside your home, in basements, in garages or near windows, because the fumes are deadly.",
+     "If you are unsure whether a device is safe to use indoors, do not use it. Go back to layers, blankets and one small room."
+    ]
+   },
+   {
+    "h": "Watch for hypothermia and know where to go",
+    "p": [
+     "The CDC lists these warning signs in adults: shivering, exhaustion, confusion, fumbling hands, memory loss, slurred speech and drowsiness. In babies the signs are bright red, cold skin and very low energy. If you see them, move the person to a warmer place and get medical help.",
+     "Ready.gov advises going to an alternate location for heat if it is safe to do so. Older adults, babies and people with health conditions need extra attention, so it helps to agree in advance who checks on whom, and where you could go if staying put stops being safe."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Can I heat my home with the gas stove or oven?",
+    "a": "No. Ready.gov says not to use a gas stove or oven to heat your home, because of the carbon monoxide risk, and it can also cause fires and burns. Use layers, blankets and a single small room instead."
+   },
+   {
+    "q": "Where can I safely run a generator?",
+    "a": "Only outdoors. Ready.gov says to use a generator only outdoors and away from windows. The CDC says to place it at least 20 feet from any window, door or vent, and never in a home, basement or garage. Keep a battery-powered carbon monoxide detector indoors."
+   },
+   {
+    "q": "Should the whole family stay in one room?",
+    "a": "Yes, this is the official advice in Poland. The Poradnik bezpieczeństwa says to save heat and gather household members in one room. Extra blankets and warm sleeping gear help, as suggested by Sweden's MSB."
+   },
+   {
+    "q": "What are the signs that someone is getting too cold?",
+    "a": "The CDC lists shivering, exhaustion, confusion, fumbling hands, memory loss, slurred speech and drowsiness in adults. In babies it lists bright red, cold skin and very low energy. If you see these signs, warm the person up and seek medical help."
+   }
+  ]
+ },
+ "pl": {
+  "slug": "jak-bezpiecznie-sie-ogrzac-w-domu-podczas-zimowego-braku-pradu",
+  "title": "Jak bezpiecznie utrzymać ciepło w domu podczas zimowego braku prądu?",
+  "description": "Praktyczne wskazówki na zimowy blackout: ogrzewaj jedno pomieszczenie, ubieraj się warstwowo, agregat tylko na zewnątrz, uważaj na czad i objawy hipotermii.",
+  "summary": "Zmniejsz powierzchnię, którą trzeba ogrzać (jeden pokój, wszyscy razem), ubieraj się i śpij warstwowo, nie ogrzewaj domu kuchenką gazową ani piekarnikiem. Agregat prądotwórczy uruchamiaj wyłącznie na zewnątrz, co najmniej 20 stóp (ok. 6 m) od okien, drzwi i otworów wentylacyjnych, a w domu miej czujnik tlenku węgla na baterie.",
+  "sections": [
+   {
+    "h": "Zatrzymaj ciepło: jeden pokój, wszyscy razem",
+    "p": [
+     "Rządowy Poradnik bezpieczeństwa (przygotowany przez MON, MSWiA i RCB) ostrzega, że długotrwały brak prądu może oznaczać utratę dostępu do wody, ogrzewania, internetu i telefonu i może potrwać nawet kilka dni. W czasie przerwy w dostawie zaleca oszczędzanie ciepła, zebranie domowników w jednym pokoju i odłączenie urządzeń elektrycznych od zasilania.",
+     "Szwedzka agencja MSB zwraca uwagę, że grzejniki przy braku prądu szybko stygną, a po zachodzie słońca robi się jeszcze zimniej. Radzi mieć pod ręką dodatkowe kołdry i koce oraz spróbować przespać jedną noc w śpiworze albo pod kurtką zamiast kołdry. Dzięki temu wiesz z wyprzedzeniem, co się sprawdza.",
+     "Amerykańskie CDC dodaje proste sposoby na ograniczenie przeciągów: nie otwieraj niepotrzebnie drzwi i okien, zatkaj szczeliny pod drzwiami ręcznikami lub szmatami, a na noc zasłaniaj okna zasłonami lub kocami."
+    ]
+   },
+   {
+    "h": "Ubieraj się i śpij warstwowo",
+    "p": [
+     "CDC zaleca kilka warstw luźnej odzieży. Jako warstwę przy ciele proponuje wełnę, jedwab lub polipropylen, które zatrzymują więcej ciepła niż bawełna. Radzi też utrzymywać suchą odzież, bo mokre ubranie szybko wychładza ciało, oraz zdjąć warstwę, gdy robi się za ciepło, bo intensywne pocenie zwiększa utratę ciepła.",
+     "Czapka, ciepłe skarpety i koce działają bez prądu. Próbna noc w ciepłym ubraniu lub w śpiworze, jak sugeruje MSB, pokazuje, czego jeszcze brakuje, gdy prąd jeszcze działa."
+    ]
+   },
+   {
+    "h": "Alternatywne ogrzewanie i agregaty: najpierw czad",
+    "p": [
+     "Ready.gov mówi w tej sprawie jasno: nie ogrzewaj domu kuchenką gazową ani piekarnikiem, bo zwiększa to ryzyko zatrucia tlenkiem węgla, a także groźbę pożaru i oparzeń. Ready.gov i CDC zalecają czujniki tlenku węgla z zasilaniem bateryjnym, które działają także bez prądu.",
+     "Polski poradnik wymienia piecyk gazowy lub olejowy, kominek i agregat prądotwórczy jako przykłady alternatywnego ogrzewania lub zasilania. Jeśli używasz agregatu, Ready.gov mówi, że wolno to robić tylko na zewnątrz i z dala od okien, a CDC zaleca ustawić go co najmniej 20 stóp (ok. 6 m) od okien, drzwi i otworów wentylacyjnych. CDC dodaje, że nigdy nie wolno używać agregatów, grilli gazowych i węglowych, kuchenek turystycznych ani podobnych urządzeń w domu, w piwnicy, w garażu ani w pobliżu okien, bo opary są śmiertelnie niebezpieczne.",
+     "Jeśli nie masz pewności, czy urządzenie nadaje się do użytku w domu, z niego nie korzystaj. Wróć do warstw ubrań, koców i jednego małego pomieszczenia."
+    ]
+   },
+   {
+    "h": "Pilnuj objawów hipotermii i wiedz, dokąd pójść",
+    "p": [
+     "CDC wymienia u dorosłych takie objawy ostrzegawcze: dreszcze, wyczerpanie, splątanie, niezgrabne dłonie, utratę pamięci, bełkotliwą mowę i senność. U niemowląt są to jaskrawoczerwona, zimna skóra i bardzo mała aktywność. Gdy je zauważysz, przenieś osobę w cieplejsze miejsce i wezwij pomoc medyczną.",
+     "Ready.gov radzi, by – jeśli jest to bezpieczne – udać się w inne miejsce, w którym jest ciepło. Seniorzy, niemowlęta i osoby z problemami zdrowotnymi wymagają szczególnej uwagi. Warto wcześniej ustalić, kto zagląda do kogo i dokąd możecie pójść, jeśli pozostanie w domu przestanie być bezpieczne."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "Czy mogę ogrzewać mieszkanie kuchenką gazową lub piekarnikiem?",
+    "a": "Nie. Ready.gov mówi, żeby nie ogrzewać domu kuchenką gazową ani piekarnikiem, bo grozi to zatruciem tlenkiem węgla, a także pożarem i oparzeniami. Lepiej postawić na warstwy ubrań, koce i jedno małe pomieszczenie."
+   },
+   {
+    "q": "Gdzie bezpiecznie uruchomić agregat prądotwórczy?",
+    "a": "Tylko na zewnątrz. Ready.gov mówi, że agregat wolno używać wyłącznie na zewnątrz i z dala od okien. CDC zaleca ustawić go co najmniej 20 stóp (ok. 6 m) od okien, drzwi i otworów wentylacyjnych, a nigdy w domu, piwnicy ani garażu. W domu miej czujnik tlenku węgla na baterie."
+   },
+   {
+    "q": "Czy cała rodzina powinna siedzieć w jednym pokoju?",
+    "a": "Tak, to oficjalna rada w Polsce. Poradnik bezpieczeństwa zaleca oszczędzanie ciepła i zebranie domowników w jednym pokoju. Dodatkowe koce i ciepłe rzeczy do spania polecają też szwedzkie MSB."
+   },
+   {
+    "q": "Po czym poznać, że ktoś wychładza się zbyt mocno?",
+    "a": "CDC wymienia u dorosłych dreszcze, wyczerpanie, splątanie, niezgrabne dłonie, utratę pamięci, bełkotliwą mowę i senność. U niemowląt są to jaskrawoczerwona, zimna skóra i bardzo mała aktywność. Przy takich objawach ogrzej osobę i zadbaj o pomoc medyczną."
+   }
+  ]
+ }
+}
